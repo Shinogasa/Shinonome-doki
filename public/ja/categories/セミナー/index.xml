@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>セミナー on Zzossig&#39;s Blog</title>
+    <link>http://localhost:1313/ja/categories/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</link>
+    <description>Recent content in セミナー on Zzossig&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 17 Mar 2016 18:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/categories/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>せっかくだからJAWS DAYSについて語るぜ！</title>
+      <link>http://localhost:1313/ja/posts/2016-03-17-jaws-days-2016/</link>
+      <pubDate>Thu, 17 Mar 2016 18:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2016-03-17-jaws-days-2016/</guid>
+      <description>&lt;h4 id=&#34;ブログ書くまでがjaws-daysだよ&#34;&gt;ブログ書くまでがJAWS DAYSだよ！&lt;/h4&gt;&#xA;&lt;p&gt;参加してきたので簡易的なレポになります． ただし今回メモしてなかったので内容は薄っぺらいです． &lt;a href=&#34;https://jawsdays2016.jaws-ug.jp/&#34;&gt;https://jawsdays2016.jaws-ug.jp/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;jaws-daysとはなんぞや&#34;&gt;JAWS DAYSとはなんぞや&lt;/h3&gt;&#xA;&lt;p&gt;ここ数年とてつもない盛り上がりをみせているAWS. そのユーザーグループとして全国50以上の支部が活動しているJAWS-UGの一大イベントがJAWS DAYSです． 先日ベルサール新宿グラントで開催されましたのでAWS初心者として参加してきました．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CROSS2016に参加してきました その3</title>
+      <link>http://localhost:1313/ja/posts/2016-02-08-cross-2016-3/</link>
+      <pubDate>Mon, 08 Feb 2016 23:32:45 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2016-02-08-cross-2016-3/</guid>
+      <description>&lt;p&gt;CROSS2016参加記事の続きです． 後半戦も面白いセッションがたくさんでした．&lt;/p&gt;&#xA;&lt;h3 id=&#34;ctoが現場に言えない本音&#34;&gt;CTOが現場に言えない本音！&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://2016.cross-party.com/program/b3&#34;&gt;http://2016.cross-party.com/program/b3&lt;/a&gt; 個人的に一番期待していたセッションです． リブセンス，VASILY，クラウドワークス，ウォンテッドリーのCTOのパネルセッションでした． 一部オフレコなところがあったのと聞くことに集中してたので聞いた感想だけになりますが，CTOはこんなふうに考えてるんだなぁと． 評価の面では共通してアウトプットと成長について触れていました． その人がどんなアウトプットをしたか，どれくらい成長したかが評価のキモになってくるようです． 目標設定して出来ましただけでは意味がなく，自分で勉強して成長につなげていくことが出来なければ意味が無いというのは結構刺さりました． 成長の見方としてはアウトプット＋α(新しい技術を入れたか)や期待値をどれくらい上回っているかを指針にしているようです． あと個人のスキルだけではなくチーム，プロジェクトでできるようになることも重要と言っていました． 新卒・2卒へのメッセージとして「エンジニアは意外と泥臭くキレイなことだけやってても活躍できない」「はじめはみんなギークじゃない．やってみないと面白さはわからない」とのこと． やはり自分でやってみるということが大切なのですね． 新卒で入ってまだまだなところがある私なので非常にぐさっと来ました．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CROSS2016に参加してきました その2</title>
+      <link>http://localhost:1313/ja/posts/2016-02-07-cross-2016-2/</link>
+      <pubDate>Sun, 07 Feb 2016 13:27:48 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2016-02-07-cross-2016-2/</guid>
+      <description>&lt;p&gt;前回の続きです． お昼で人も増えてきてランチセッションもあるという贅沢．&lt;/p&gt;&#xA;&lt;h3 id=&#34;iot案件を70件やってみて分ったこと&#34;&gt;IoT案件を70件やってみて分ったこと&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://2016.cross-party.com/program/a2&#34;&gt;http://2016.cross-party.com/program/a2&lt;/a&gt; ニフティIoTデザインセンターを設立して案件70件ほどやってみて見えてきた感じたことや課題などのセッションでした． ランチセッションだったのでとんかつまい泉お弁当付きでした． ご飯食べながら技術セッション聞けるなんて贅沢． 美味しかったです． &lt;img src=&#34;https://lh3.googleusercontent.com/-osTIx8-3zuY/VrSYCvNG0II/AAAAAAAASYY/4HkUgcJ01Qw/s1024/CameraZOOM-20160205125155879.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CROSS2016に参加してきました　その1</title>
+      <link>http://localhost:1313/ja/posts/2016-02-06-cross-2016-1/</link>
+      <pubDate>Sat, 06 Feb 2016 23:37:33 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2016-02-06-cross-2016-1/</guid>
+      <description>&lt;h3 id=&#34;cross2016&#34;&gt;CROSS2016&lt;/h3&gt;&#xA;&lt;p&gt;昨日2月5日に横浜大さん橋ホールで開催されたWeb系勉強会のCORSS2016に参加してきました． 小さな勉強会はちょこちょこ行っていたのですが大規模なものに参加するのは初めてでした． 通しで参加して色々セッション聞いてきたので殴り書きのメモをば． &lt;img src=&#34;https://lh3.googleusercontent.com/-RZNygf0g9bU/VrSX9c8mCyI/AAAAAAAASYY/pe1Cyk8wfU0/s1024/CameraZOOM-20160205110234283.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ヒカ☆ラボに参加してきた</title>
+      <link>http://localhost:1313/ja/posts/2015-07-08-004531/</link>
+      <pubDate>Wed, 08 Jul 2015 00:45:31 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2015-07-08-004531/</guid>
+      <description>&lt;p&gt;dots.で色々見ていたところ何やら面白そうなセミナーを発見． 「【ヒカ☆ラボ】プロジェクトをグロースハックしたい方必見!!My365，GrowthPushなど，多数のプロジェクト立ち上げに関わってきたからこそ語れる，サービスに合う技術選定方法や，グロースする戦略の見つけ方を失敗談も含めて話します!!」 と非常に長いテーマですが最近今更ながらライアン・ホリデイのグロースハッカーを読んだのと新しいサービス開発のヒントになればと思って参加してきました．  前半は株式会社シロク CTO 片岡直之氏(&lt;a href=&#34;https://twitter.com/katty0324&#34;&gt;@katty0324&lt;/a&gt;)によるグロースハック術というか会社の失敗談． サイバーエージェント在職中にMy365を作ってシロクとして独立したはいいがそこから収益を出すまでのお話が色々と面白かったです． My365はインスタグラムが流行って写真SNSが賑わっていたところにツイッターの文字制限から１日１枚しか投稿できない制限のヒントを得てリリース． すでに写真SNSという市場ができていたところへの参入だったのでDL数はうなぎのぼりのヒット． もともと出来ていた市場への参入したことと正面からぶつかっても勝てないのは目に見えているので別の市場でヒットしているものから特色を持ってきたからユーザーを獲得できたとのこと． しかしここで思わぬ誤算が． ユーザーを集めることに成功したはいいがそこから収益に持っていくシステムができていなく事業的にみると失敗に． そこで収益期としてサイバーエージェントのアメブロからアメーバピグへとつなげたことを参考にpipulをリリース． しかし想像よりユーザーが流れてこなくこちらも失敗に． 元サービスにユーザーがいても２次サービスへの送客力がないと最終的な利益は期待でないんですね． その後ゲームや社員紹介アプリなどに手を出した後エンジニア向けツールのGrowthPushで久しぶりのヒット． そして開発者向けアプリ開発へ集中するもテスト項目管理のGrowthDebugは思った以上にコスト削減のために費用が使われないことにより失敗したり突然カジュアルゲームを開発するもホームランを狙いすぎることで試行錯誤というより迷走状態に． ですが最近GrowthBeatやGrowthAnalyticsでまたいい感じになってきたそうです． まとめ 自分で新たな市場を作るのはめっちゃ大変だけどすでにある市場への参入は楽． だけどすでにある市場はライバル多いので真正面から突っ込むのではなくちょっと武器を持って参入． 利益の出るサービスを作るためには試行錯誤しながら成功率を上げることが大切． そのためにはエンジニアが開発を引っ張り営業でもなんでもやって売る人と作る人が尊重しあうことが重要． 今回聞きながら書いたマインドマップです． &lt;img src=&#34;https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20150708/20150708004328.png&#34; alt=&#34;fidShinogasa:20150708004328p:plain&#34;&gt; 後半はシロクのエンジニアさんが自社サービスの使用言語やインフラ環境についての解説でした． やはり今流行のフレームワークなどを多用して高速化を図っていましたね． 正直まだ知識全然ないので半分くらいちんぷんかんぷんでしたがｗ やっぱりまだまだ勉強足りませんね． サーバーインフラ方面弱いのでAWSとか勉強していきましょ． このようなセミナーは初参加でしたが非常に良い刺激になりました． もちろん学ぶことは多いですし他のエンジニアの方といろんなお話したり人脈作れたりといいことづくめですね． ビビってないで今後もどんどん参加していくようにします． そしてアウトプットして残すようにしていきましょ． [amazonjs asin=&amp;ldquo;482224993X&amp;rdquo; locale=&amp;ldquo;JP&amp;rdquo; title=&amp;ldquo;グロースハッカー&amp;rdquo;]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

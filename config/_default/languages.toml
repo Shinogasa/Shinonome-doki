@@ -1,0 +1,9 @@
+[ja]
+  title = "Zzossig's Blog"
+  languageName = "Japanese"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content"
+
+  [ja.params]
+    description = "あれこれ書くブログ"

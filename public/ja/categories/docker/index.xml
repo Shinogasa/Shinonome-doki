@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Zzossig&#39;s Blog</title>
+    <link>http://localhost:1313/ja/categories/docker/</link>
+    <description>Recent content in Docker on Zzossig&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 02 Aug 2018 23:27:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker runで上げたコンテナに docker-compose upで上げたコンテナをlinkする</title>
+      <link>http://localhost:1313/ja/posts/post-566/</link>
+      <pubDate>Thu, 02 Aug 2018 23:27:27 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/post-566/</guid>
+      <description>&lt;h2 id=&#34;なんでそんなことしたかったの&#34;&gt;なんでそんなことしたかったの&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;もともとコンテナをitamaeスクリプトでdocker runして立ち上げていた&#xA;&lt;ul&gt;&#xA;&lt;li&gt;オプションが増えてきてコマンドが非常に長くなった&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;何を書いているのかわかりにくかったのでdocker-compose.ymlにオプションを書いて起動することに&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;現状&#34;&gt;現状&lt;/h2&gt;&#xA;&lt;p&gt;すでに上がっているコンテナ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerで作成したイメージのリポジトリ名とタグ名を変更する</title>
+      <link>http://localhost:1313/ja/posts/docker-rename-repo-tag/</link>
+      <pubDate>Tue, 18 Apr 2017 19:04:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/docker-rename-repo-tag/</guid>
+      <description>&lt;p&gt;Dockerで作成したコンテナイメージをDockerHubにプッシュしようとしたら下記エラーが出てできなかった．&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;$ docker images&#xA;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE&#xA;hoge/httpd     ver1.0              54e9a8d65f50        2 days ago          258 MB&#xA;$ docker push hoge/httpd:ver1.0&#xA;The push refers to a repository [docker.io/hoge/httpd]&#xA;09ce67b5172f: Preparing&#xA;5f70bf18a086: Preparing&#xA;8d12f3483b2e: Preparing&#xA;denied: requested access to the resource is denied&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;どうやらローカルのリポジトリ名とDockerHubのリポジトリ名が一致していないよって言われてるみたい．  &lt;a href=&#34;http://stackoverflow.com/questions/41984399/denied-requested-access-to-the-resource-is-denied-docker&#34;&gt;stackoverflow.com&lt;/a&gt; 自分のDockerHubのユーザー名がfugaだったのでそちらに変更．&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

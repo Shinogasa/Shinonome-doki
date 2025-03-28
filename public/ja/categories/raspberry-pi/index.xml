@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on Zzossig&#39;s Blog</title>
+    <link>http://localhost:1313/ja/categories/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Zzossig&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 07 Jan 2016 11:27:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ja/categories/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「RaspberryPiで手作り目覚まし時計！ストップボタン編」をやってみた</title>
+      <link>http://localhost:1313/ja/posts/2016-01-07-112738/</link>
+      <pubDate>Thu, 07 Jan 2016 11:27:38 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2016-01-07-112738/</guid>
+      <description>&lt;p&gt;今年もよろしくお願いします． こんな記事見つけて唐突にやってみようと思ったのでチャレンジ． &lt;a href=&#34;http://deviceplus.jp/hobby/raspberrypi_entry_019/&#34;&gt;http://deviceplus.jp/hobby/raspberrypi_entry_019/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;[amazonjs asin=&amp;ldquo;B01CSFZ4JG&amp;rdquo; locale=&amp;ldquo;JP&amp;rdquo; title=&amp;ldquo;Raspberry Pi3 Model B ボード＆ケースセット 3ple Decker対応 (Element14版, Clear)-Physical Computing Lab&amp;rdquo;]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Raspberry Pi セットアップメモその2</title>
+      <link>http://localhost:1313/ja/posts/2015-08-07-230514/</link>
+      <pubDate>Fri, 07 Aug 2015 23:05:14 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2015-08-07-230514/</guid>
+      <description>&lt;p&gt;昨日のやつの続き．&lt;/p&gt;&#xA;&lt;p&gt;http://13.230.11.248/entry/2015/08/07/001045/&lt;/p&gt;&#xA;&lt;p&gt;フォーマット終わってNOOBSつっこんで起動．&lt;/p&gt;&#xA;&lt;p&gt;インストール画面出たのでインストール．&lt;/p&gt;&#xA;&lt;p&gt;また同じエラー出たぞよ．&lt;/p&gt;&#xA;&lt;p&gt;なんでや！&lt;/p&gt;&#xA;&lt;p&gt;USB抜いて再起動したらまたインストール画面．&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>raspberry pi セットアップメモ</title>
+      <link>http://localhost:1313/ja/posts/2015-08-07-001045/</link>
+      <pubDate>Fri, 07 Aug 2015 00:10:45 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2015-08-07-001045/</guid>
+      <description>&lt;p&gt;ちょっとraspberry pi のセットアップし直そうと思ってNOOBS入れなおしてみた． とりあえずSDFormatterでフォーマットしてダウンロードしたNOOBSをSDにコピー ラズパイにさしてインストール したら Error creating file system mkfs.fat: warning - lowercase labels might not work probely with DOS or Windows ってエラーが出てインストールできないぞよ．  とりあえずググったらこちらのサイトが出てきて同じエラーの状態でした． &lt;a href=&#34;http://blog.yuizi.com/2015/06/rapsberry-pi-2.html&#34;&gt;ヤスダ式仕事日記: Raspberry Pi 2 のセットアップでエラー&lt;/a&gt; どうやらフォーマットのオプションの指定が間違っているようでした． 上書きフォーマット，論理サイズ調整ONにして再フォーマット． 自分の前に買ってたラズパイの本にもよく見たらフォーマットのオプションしっかり書いとるやないかーい． ちゃんと読みましょう． ちなみに買った本は下のやつで結構詳しく載ってて後半はネタが多くて使えますよ． フォーマットが長いので続きはまたあとで． [amazonjs asin=&amp;ldquo;480071172X&amp;rdquo; locale=&amp;ldquo;JP&amp;rdquo; title=&amp;ldquo;これ1冊でできる! ラズベリー・パイ 超入門 改訂第4版 Raspberry Pi 1+/2/3/Zero/Zero W対応&amp;rdquo;]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【追記あり】Raspberry Pi2でUSBスピーカーがやっと使えた</title>
+      <link>http://localhost:1313/ja/posts/2015-06-19-004452/</link>
+      <pubDate>Fri, 19 Jun 2015 00:44:52 +0000</pubDate>
+      <guid>http://localhost:1313/ja/posts/2015-06-19-004452/</guid>
+      <description>&lt;p&gt;Raspberry Pi2から音を出すにはヘッドホン端子だけかと思ってましたがどうやらUSBスピーカーが使えるらしいです． ノイズが入らないんじゃないかと期待してUSBスピーカーから音を出すため試行錯誤しました．  Raspberry Pi2から音をだして見ようと思いとりあえずヘッドホン端子にイヤホンさしてそこから出すように設定してみた．&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
