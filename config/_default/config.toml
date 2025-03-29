@@ -1,54 +1,39 @@
-baseURL = "https://shinonono.net" # The URL of your site.
-title = "シノノメドキ" # Title of your site
-theme = "hugo-theme-zzo" # Name of Zzo theme folder in `themes/`.
+baseurl = "https://shinonono.com"
+title = "シノノメドキ"
+theme = "robust"
 
-defaultContentLanguage = "ja" # Default language to use (if you setup multilingual)
-defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
-hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
 
-summaryLength = 70 # The length of a post description on a list page.
-buildFuture = true # if true, we can use future date for talks page
+[languages]
+  [languages.ja]
+    languageName = "Japanese"
+    weight = 1
+    title = "シノノメドキ"
 
-copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
-timeout = 10000
-enableEmoji = true
-rssLimit = 100
+[services]
+  [services.disqus]
+    shortname = ''
+  [services.googleAnalytics]
+    id = 'UA-XXXXXXXX-XX' # Optical
 
-enableGitInfo = false # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
-googleAnalytics = ""
+[params]
+description = "This is site description"
+dateformat = "Jan 2, 2006" # Optional
+# Fonts settings.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
-[pagination]
-  pagerSize = 13
+enableHighlight = true # highlight.js option
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = true
-      unsafe = true
-      xHTML = true
-  [markup.highlight]
-    codeFences = true
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
+[params.author]
+thumbnail = "images/author.jpg"
+name = "John Doe"
+description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+facebook = "https://www.facebook.com/daisuke.tsuji.735"
+twitter = "https://twitter.com/dim0627"
+github = "https://github.com/dim0627"
 
 [outputs]
-  home = ["HTML", "RSS", "SearchIndex"]
-  section = ["HTML", "RSS", "SearchIndex"]
-  taxonomy = ["HTML", "RSS", "SearchIndex"]
-
-[outputFormats]
-  [outputFormats.SearchIndex]
-    mediaType = "application/json"
-    baseName = "index"
-    isPlainText = true
-    notAlternative = true
-    
-[taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
+page = [ "HTML", "AMP" ] # if you want AMP enable.
