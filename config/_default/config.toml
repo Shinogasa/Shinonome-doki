@@ -1,4 +1,4 @@
-baseurl = "https://shinonono.com"
+baseurl = "https://shinonono.net"
 title = "シノノメドキ"
 theme = "robust"
 
@@ -16,6 +16,9 @@ hasCJKLanguage = true
     shortname = ''
   [services.googleAnalytics]
     id = 'UA-XXXXXXXX-XX' # Optical
+
+[permalinks]
+  posts = "/posts/:slug/"
 
 [params]
 description = "This is site description"
