@@ -9,11 +9,18 @@ on:
       - closed
     branches:
       - main
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "デプロイするブランチ"
+        required: true
+        default: "main"
+        type: string
 
 jobs:
   trigger:
-    # PRがマージされた場合のみ実行
-    if: github.event.pull_request.merged == true || github.event_name == 'push'
+    # PRがマージされた場合または手動実行の場合のみ実行
+    if: github.event.pull_request.merged == true || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Trigger deployment workflow
@@ -22,4 +29,4 @@ jobs:
           token: ${{ secrets.INFRA_REPO_PAT }}
           repository: Shinogasa/Shinonome-doki-infra
           event-type: deploy-hugo
-          client-payload: '{"branch": "${{ github.ref_name }}"}'
+          client-payload: '{"branch": "${{ github.event.inputs.branch || github.ref_name }}"}'
