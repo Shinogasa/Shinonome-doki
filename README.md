@@ -23,3 +23,8 @@ hugo server -D
 hugo
 ```
 
+### 画像変換
+
+```bash
+sips -s format jpeg image.heic --out image.jpg
+```
