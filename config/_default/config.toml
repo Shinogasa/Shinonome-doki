@@ -15,7 +15,7 @@ hasCJKLanguage = true
   [services.disqus]
     shortname = ''
   [services.googleAnalytics]
-    id = 'UA-XXXXXXXX-XX' # Optical
+    id = 'G-N0QXRZ562X' # Optical
 
 [permalinks]
   posts = "/posts/:slug/"
@@ -31,12 +31,11 @@ logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 enableHighlight = true # highlight.js option
 
 [params.author]
-thumbnail = "images/author.jpg"
-name = "John Doe"
-description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
-facebook = "https://www.facebook.com/daisuke.tsuji.735"
-twitter = "https://twitter.com/dim0627"
-github = "https://github.com/dim0627"
+thumbnail = "/images/profile.jpeg"
+name = "しののめ"
+description = "<p>Webエンジニアです。</p><p>いろんなことを書いています。</p>"
+twitter = "https://x.com/Shinogasa"
+github = "https://github.com/Shinogasa"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.

@@ -1,0 +1,25 @@
+name: Trigger Deploy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types:
+      - closed
+    branches:
+      - main
+
+jobs:
+  trigger:
+    # PRがマージされた場合のみ実行
+    if: github.event.pull_request.merged == true || github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deployment workflow
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.INFRA_REPO_PAT }}
+          repository: Shinogasa/Shinonome-doki-infra
+          event-type: deploy-hugo
+          client-payload: '{"branch": "${{ github.ref_name }}"}'
