@@ -5,6 +5,8 @@ theme = "robust"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
+timeZone = "Asia/Tokyo"
+
 [languages]
   [languages.ja]
     languageName = "Japanese"
