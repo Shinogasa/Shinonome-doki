@@ -9,7 +9,41 @@ https://github.com/dim0627/hugo_theme_robust
 
 ## Usage
 
-### Build
+### 記事テンプレ
+
+```md
+---
+title: デレ老人の見たデレステ10thツアー東京公演DAY2
+date: 2025-04-28 12:00:00
+slug: the-idolmaster-cinderella-girls-starlight-stage-10th-tokyo-day2
+draft: False
+categories:
+  - シンデレラガールズ
+  - 日記
+---
+```
+
+### ショートコード
+
+#### アフィリエイト
+
+```md
+{{< affiliate
+    title="August Burns Red / Constellations"
+    summary=""
+    image-url="Amazonから取ってきた画像URL"
+    amazon-url="Amazonアフィリエイトリンク"
+    rakuten-url="楽天アフィリエイトリンク"
+>}}
+```
+
+#### ツイート埋込み
+
+```md
+{{< tweet id="ツイートid" user="ユーザーid" theme="light" >}}
+```
+
+## Build
 
 ローカルで確認
 
@@ -22,6 +56,8 @@ hugo server -D
 ```bash
 hugo
 ```
+
+## その他
 
 ### 画像変換
 

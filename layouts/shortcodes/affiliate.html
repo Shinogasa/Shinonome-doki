@@ -1,0 +1,22 @@
+<div class="affiliate-box">
+    <div class="three columns amazon-image">
+        <a href="{{ .Get "amazon-url" }}" target="_blank">
+            <img border="0" src="{{ .Get "image-url" }}">
+        </a>
+    </div>
+    <div class="affiliate-info">
+        <div class="amazon-info">
+            <a href="{{ .Get "amazon-url" }}" target="_blank">
+                <p class="amazon-name">{{ .Get "title" }}</p>
+            </a>
+            <div>
+                <p>{{ .Get "summary" }}</p>
+            </div>
+        </div>
+        <a href="{{ .Get "amazon-url" }}" target="_blank" id="amazon-btn" class="affiliate-btn">Amazon</a>
+        {{ if .Get "rakuten-url" }}
+        <a href="{{ .Get "rakuten-url" }}" target="_blank" id="rakuten-btn" class="affiliate-btn">楽天</a>
+        {{ end }}
+    </div>
+    <br>
+</div>
