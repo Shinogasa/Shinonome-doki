@@ -11,7 +11,7 @@ categories:
 
 #### 追記 グッズ届きました
 
-http://13.230.11.248/entry/cinderella-4thlive-kobe-goods 
+http://shinonono.net/entry/cinderella-4thlive-kobe-goods 
 
 ###  事前物販で買わなくても当日買えばいいじゃん？
 

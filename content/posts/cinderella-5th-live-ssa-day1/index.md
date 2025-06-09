@@ -101,4 +101,4 @@ MCのとき全員集合していたので次は全体曲か？と思いました
 
 #### 追記 Day2のレポも書きました
 
-http://13.230.11.248/entry/cinderella-5th-live-ssa-day2 [amazonjs asin="B072XQ6P9P" locale="JP" title="【Amazon.co.jp限定】THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story(初回限定生産)(LPサイズ ディスク収納ケース付) Blu-ray"]
+http://shinonono.net/entry/cinderella-5th-live-ssa-day2 [amazonjs asin="B072XQ6P9P" locale="JP" title="【Amazon.co.jp限定】THE IDOLM@STER CINDERELLA GIRLS 4thLIVE TriCastle Story(初回限定生産)(LPサイズ ディスク収納ケース付) Blu-ray"]

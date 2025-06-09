@@ -53,4 +53,4 @@ categories:
 
 #### 追記
 
-ちょっとだけチケット情報更新されてた http://13.230.11.248/entry/cinderella-4th-live-tri-castle
+ちょっとだけチケット情報更新されてた http://shinonono.net/entry/cinderella-4th-live-tri-castle
