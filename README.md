@@ -40,7 +40,7 @@ categories:
 #### ツイート埋込み
 
 ```md
-{{< tweet id="ツイートid" user="ユーザーid" theme="light" >}}
+{{< x id="ツイートid" user="ユーザーid" theme="light" >}}
 ```
 
 ## Build
