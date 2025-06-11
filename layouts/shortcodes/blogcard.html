@@ -1,0 +1,71 @@
+{{- $url := (.Get 0) -}}
+{{- $target_url := urls.Parse $url -}}
+
+{{- $title := "" -}}
+{{- $favicon_url := "" -}}
+{{- $content := "" -}}
+
+<!-- try構文を使用してリモートリソースを取得 -->
+{{- $resource := false -}}
+{{- with resources.GetRemote $url -}}
+    {{- $resource = . -}}
+    <!-- このスコープ内では$resourceは正常に取得できたリソース -->
+    {{- $content = $resource.Content -}}
+    
+    <!-- headを取得 -->
+    {{- $head := index (findRE "<head[^>]*?>(.|\n)*?</head>" $content) 0 -}}
+
+    <!-- headからタイトルを取得 -->
+    {{- $title = index (findRE "<title.*?>(.|\n)*?</title>" $head) 0 -}}
+    {{- if $title -}}
+        {{- $title = replaceRE "</?title>" "" $title -}}
+    {{- end -}}
+
+    <!-- headからfaviconを取得 -->
+    {{- $linktag := index (findRE "<link[^<>]*rel=[\"']?icon[\"']?.*?>" $head) 0 -}}
+    {{- if not $linktag -}}
+        {{- $linktag = index (findRE "<link[^<>]*?rel=[\"']?shortcut icon[\"']?.*?>" $head) 0 -}}
+    {{- end -}}
+    {{- if $linktag -}}
+        {{- $href := index (findRE "href=[\"']?[^ >]*[\"']?" $linktag) 0 -}}
+        {{- $href = replace $href "href=" "" | replaceRE "[\"']" "" -}}
+        {{- if eq (strings.Substr $href 0 1) "/"  -}}
+            {{- $favicon_url = print $target_url.Scheme "://" $target_url.Hostname $href -}}
+        {{- else if gt (len (findRE "^http[s]?://" $href)) 0 -}}
+            {{- $favicon_url = $href -}}
+        {{- end -}}
+    {{- end -}}
+
+    <!-- /favicon.icoを取得 -->
+    {{- if not $favicon_url -}}
+        {{- range $favicon_ext := (slice ".ico" ".png" ".gif") -}}
+            {{- $root_favicon_path := print $target_url.Scheme "://" $target_url.Hostname "/favicon" $favicon_ext -}}
+            {{- $favicon_res := resources.GetRemote $root_favicon_path -}}
+            {{- with $favicon_res -}}
+                {{- $favicon_url = $root_favicon_path -}}
+                {{- break -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- else -}}
+    {{- $title = (print $url "にアクセスできませんでした") -}}
+{{- end -}}
+
+<!-- HTMLを生成 -->
+<a href="{{- $url -}}">
+  <div class="link-card">
+    <div class="link-card-title">
+      {{- $title | htmlUnescape | truncate 100 -}}
+    </div>
+    <div class="link-card-hostname">
+      {{ if $favicon_url }}
+      <div class="link-card-hostname-img">
+        <img alt="icon" src="{{- $favicon_url -}}">
+      </div>
+      {{ end }}
+      <span>
+        {{- $target_url.Hostname -}}
+      </span>
+    </div>
+  </div>
+</a>
