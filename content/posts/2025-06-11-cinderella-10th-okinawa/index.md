@@ -1,6 +1,6 @@
 ---
 title: 浮かれポンチの見たデレステ10thツアー沖縄公演 + 沖縄旅行
-date: 2025-06-09 12:00:00
+date: 2025-06-11 12:00:00
 slug: the-idolmaster-cinderella-girls-starlight-stage-10th-okinawa
 draft: False
 thumbnail: /posts/2025-06-09-cinderella-10th-okinawa/thumbnail.jpg
@@ -173,14 +173,14 @@ Twilight Sky至上主義が結構多いけど**個人的にはSparkling Girl派*
 
 ## Day2
 
-大暴れしたおかげで酒少し残ってたものの、ホテルに大浴場がついていたお陰でスッキリ。  
+大暴れしたおかげで酒が少し残ってたものの、ホテルに大浴場がついていたお陰でスッキリ。  
 Day2は開演が15時と早めなので、午前中から動いて会場近くのアメリカンビレッジへ。  
 ここで初めてちゃんと沖縄の海を見て綺麗さに感動してまた浮かれポンチに。  
 {{< x id="1931547164066672870" user="Shinogasa" theme="light" >}}
 {{< x id="1931548740533563820" user="Shinogasa" theme="light" >}}
 
 昼飯はそばのA&W。  
-ハンバーガーの中のクリームチーズが美味えし肉も美味えしで沖縄県民いつもこれ食えるのずるくない？  
+挟まれているクリームチーズが美味えしパティも美味えしで沖縄県民いつもこれ食えるのずるくない？  
 {{< x id="1931571613964849519" user="Shinogasa" theme="light" >}}
 
 そして会場へ向かい、Day2開演。
@@ -286,14 +286,14 @@ Day2はDay1より落ち着いている感じがして、**かっちりしなが�
 主催兼イラストレーター兼地元民のくまつきさんがお忙しい中めちゃめちゃいいフラスタと楽屋花を送ってくれました。  
 ありがとうございました。  
 
-![](/static/posts/2025-06-09-cinderella-10th-okinawa/flower-stand.jpg)
-
 {{< figure
   src="/posts/2025-06-09-cinderella-10th-okinawa/flower-stand.jpg"
   caption="すばらしかったフラスタ"
   link="https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5"
   width="400"
 >}}
+
+{{< blogcard "https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5" >}}
 
 {{< x id="1931224517952917761" user="NTK69kikaku" theme="light" >}}
 
@@ -303,7 +303,7 @@ Day2はDay1より落ち着いている感じがして、**かっちりしなが�
 これくらい真面目に書いたのはコンステや5thツアー以来かもしれません。  
 ([ここ](/categories/シンデレラガールズ)から過去のデレ関連の記事一覧を見ることができます。見返すとなかなか恥ずかしい文章ばかりですがよろしければご覧ください。)  
 
-直近だと福岡、Kアリーナが控えていますね。 
+直近だと福岡、Kアリーナが控えていますね。  
 ちょっと離れていた古のオタクも満足させるこのライブツアー。  
 どちらもチケットは取っていませんが、このモチベだとKアリは出演者次第で取るかもしれません。  
 行かないで後悔するより行って後悔。  

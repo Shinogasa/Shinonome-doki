@@ -26,6 +26,12 @@ categories:
 
 ### ショートコード
 
+#### ブログカード
+
+```md
+{{< blogcard "https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5" >}}
+```
+
 #### 画像
 
 ```md
