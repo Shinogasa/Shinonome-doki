@@ -14,7 +14,7 @@ categories:
 それなら音楽好きな友人におすすめアルバムを上げてもらったらハズレ無しでいい曲を聴くことができるんじゃないかと思いTwitterにて募集。  
 その結果色々と投げられましたので、そのアルバムの簡単なレビューになります。  
 
-{{< tweet id="1909987869705588825" user="M0ya88" theme="light" >}}
+{{< x id="1909987869705588825" user="M0ya88" theme="light" >}}
 
 ## August Burns Red / Constellations
 
@@ -133,7 +133,7 @@ Silence and Then…の透明感のあるOvertureから疾走感のある鼓動�
 
 ## Metallica / Seattle '89
 
-{{< tweet id="1910100570880573539" user="TakeC_Ose" theme="light" >}}
+{{< x id="1910100570880573539" user="TakeC_Ose" theme="light" >}}
 
 メタル・ジャスティスのリマスターデラックスBOXの中に収録されてるライブトラック。  
 全体を通して重めなアルバムの次に流れるライブ盤はもうハチャメチャ。  

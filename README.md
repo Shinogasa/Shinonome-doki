@@ -17,6 +17,7 @@ title: デレ老人の見たデレステ10thツアー東京公演DAY2
 date: 2025-04-28 12:00:00
 slug: the-idolmaster-cinderella-girls-starlight-stage-10th-tokyo-day2
 draft: False
+thumbnail: /posts/frgments-of-the-idolmster-cinderella-girls/newgene.JPG
 categories:
   - シンデレラガールズ
   - 日記
@@ -24,6 +25,26 @@ categories:
 ```
 
 ### ショートコード
+
+#### ブログカード
+
+```md
+{{< blogcard "https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5" >}}
+```
+
+#### 画像
+
+```md
+{{< figure
+  src="/images/examples/zion-national-park.jpg"
+  alt="A photograph of Zion National Park"
+  link="https://www.nps.gov/zion/index.htm"
+  caption="Zion National Park"
+  class="ma0 w-75"
+  width="800"
+  height="600"
+>}}
+```
 
 #### アフィリエイト
 
@@ -40,7 +61,7 @@ categories:
 #### ツイート埋込み
 
 ```md
-{{< tweet id="ツイートid" user="ユーザーid" theme="light" >}}
+{{< x id="ツイートid" user="ユーザーid" theme="light" >}}
 ```
 
 ## Build

@@ -9,7 +9,7 @@ categories:
 
 昨日のやつの続き．
 
-http://13.230.11.248/entry/2015/08/07/001045/ 
+http://shinonono.net/entry/2015/08/07/001045/ 
 
 フォーマット終わってNOOBSつっこんで起動．
 

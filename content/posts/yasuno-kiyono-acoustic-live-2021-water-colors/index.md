@@ -20,7 +20,7 @@ categories:
 
 ## 1年ちょっとぶりの生ライブ
 
-コロナの影響で昨年は一切生ライブがなかったので，安野さんのライブは1年ちょっと前の[○。ツアー](https://shinonono.net/entry/post-728/ "http://13.230.11.248/yasuno-kiyono-live-tour-marumaru")以来．  
+コロナの影響で昨年は一切生ライブがなかったので，安野さんのライブは1年ちょっと前の[○。ツアー](https://shinonono.net/entry/post-728/ "http://shinonono.net/yasuno-kiyono-live-tour-marumaru")以来．  
 開催が発表されたときは待ってました！と非常に喜んだ記憶．
 
 今回の会場は三軒茶屋駅そばの昭和女子大構内にある人見記念講堂．  
