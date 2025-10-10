@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'robust'
 
+# Ignore X/Twitter embed errors in production build
+ignoreLogs = ['shortcode-x-getremote']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
