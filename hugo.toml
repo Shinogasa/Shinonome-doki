@@ -2,6 +2,9 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
+# Ignore X/Twitter embed errors in production build
+ignoreLogs = ['shortcode-x-getremote']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
