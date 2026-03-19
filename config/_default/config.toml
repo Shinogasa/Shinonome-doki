@@ -23,7 +23,7 @@ timeZone = "Asia/Tokyo"
   posts = "/posts/:slug/"
 
 [params]
-description = "This is site description"
+description = "しののめの個人ブログ。Webエンジニアリングや日常について書いています。"
 dateformat = "Jan 2, 2006" # Optional
 # Fonts settings.
 googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
