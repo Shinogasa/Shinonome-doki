@@ -68,13 +68,13 @@ git config --global commit.gpgSign true
 まずはGitHubの[SSH and GPG keys](https://github.com/settings/keys)にBitWardenアプリで作成したSSHキーの公開鍵を登録します。  
 **Key type**は`Signing Key`にするのを忘れずに。
 
-そうしたら次のコマンドで`allowedSignersFile`を利用するように設定します。
+そうしたら次のコマンドで`allowedSigners`を利用するように設定します。
 ```bash
 git config --global gpg.ssh.allowedSignersFile "$HOME/.ssh/allowedSigners"
 ```
 
-allowedSignersFile に公開鍵を追加します。  
-私はallowedSignersFileがなかったため`~/.ssh`に新規作成しました。  
+`allowedSigners`に公開鍵を追加します。  
+私は`allowedSigners`がなかったため`~/.ssh`に新規作成しました。  
 中身は署名に利用するメールアドレスと公開鍵をスペース区切りで1行にまとめたものを追加します。
 ```text
 your@mail.address.com <BITWARDEN_SSH_PUBLIC_KEY>
