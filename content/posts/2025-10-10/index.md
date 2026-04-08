@@ -1,5 +1,5 @@
 ---
-title: VSCode上のコミット時の署名にBitWardenアプリを使う
+title: VSCode上のコミット時の署名にBitwarden SSH Agentを使う
 date: 2025-10-10 12:00:00
 slug: vscode-commit-signing-with-bitwarden
 draft: False
@@ -10,11 +10,11 @@ categories:
 こんにちは、しののめです。  
 昨今のサプライチェーン攻撃の流行を受けて、会社のセキュリティ要件として全エンジニアがGitでのコミットに署名と署名時の認証を求められるようになりました。  
 
-## BitWarden側の設定
+## Bitwarden側の設定
 
-### BitWardenアプリのインストール
+### Bitwardenアプリのインストール
 
-macにはBitWardenアプリをインストールしておきます。  
+macにはBitwardenアプリをインストールしておきます。  
 自分はアプリストアから入れました。
 
 https://apps.apple.com/jp/app/bitwarden/id1352778147?mt=12
