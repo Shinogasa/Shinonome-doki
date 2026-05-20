@@ -40,10 +40,13 @@
     {{- if not $favicon_url -}}
         {{- range $favicon_ext := (slice ".ico" ".png" ".gif") -}}
             {{- $root_favicon_path := print $target_url.Scheme "://" $target_url.Hostname "/favicon" $favicon_ext -}}
-            {{- $favicon_res := resources.GetRemote $root_favicon_path -}}
-            {{- with $favicon_res -}}
-                {{- $favicon_url = $root_favicon_path -}}
-                {{- break -}}
+            {{- with try (resources.GetRemote $root_favicon_path) -}}
+                {{- with .Err -}}
+                    <!-- favicon取得失敗時はスキップしてfaviconなしで描画 -->
+                {{- else with .Value -}}
+                    {{- $favicon_url = $root_favicon_path -}}
+                    {{- break -}}
+                {{- end -}}
             {{- end -}}
         {{- end -}}
     {{- end -}}
