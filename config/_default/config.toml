@@ -9,7 +9,7 @@ timeZone = "Asia/Tokyo"
 
 [languages]
   [languages.ja]
-    languageName = "Japanese"
+    label = "Japanese"
     weight = 1
     title = "シノノメドキ"
 

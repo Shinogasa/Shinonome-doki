@@ -1,8 +1,8 @@
 [ja]
   title = "シノノメドキ"
-  languageName = "Japanese"
+  label = "Japanese"
   weight = 1
-  languagedir = "ltr"
+  direction = "ltr"
   contentdir = "content"
 
   [ja.params]

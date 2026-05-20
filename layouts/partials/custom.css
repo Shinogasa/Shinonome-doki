@@ -110,3 +110,12 @@
   font-size: 0.9em;
 }
 
+/* blockquote: テーマの font-size:.8rem / line-height:1rem を読みやすいサイズに上書き */
+article.sn > .article-body blockquote {
+  font-size: 1rem;
+}
+
+article.sn > .article-body blockquote p {
+  line-height: 1.7;
+}
+
