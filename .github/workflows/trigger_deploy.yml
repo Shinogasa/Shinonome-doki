@@ -17,6 +17,8 @@ on:
         default: "main"
         type: string
 
+permissions: {} # GITHUB_TOKEN は使わない（デプロイは secrets.INFRA_REPO_PAT で行う）
+
 jobs:
   trigger:
     # PRがマージされた場合または手動実行の場合のみ実行
@@ -24,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger deployment workflow
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@28959ce8df70de7be546dd1250a005dd32156697 # v4.0.1
         with:
           token: ${{ secrets.INFRA_REPO_PAT }}
           repository: Shinogasa/Shinonome-doki-infra

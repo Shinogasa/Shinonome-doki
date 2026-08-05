@@ -26,11 +26,12 @@ timeZone = "Asia/Tokyo"
 description = "しののめの個人ブログ。Webエンジニアリングや日常について書いています。"
 dateformat = "Jan 2, 2006" # Optional
 # Fonts settings.
-googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700&display=swap" # Optional, Include google fonts.
 fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
 logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
-enableHighlight = true # highlight.js option
+# コードハイライトは Hugo 内蔵の Chroma がビルド時に行うため highlight.js は使わない。
+# 配色を変えたい場合は [markup.highlight] の style を指定する。
 
 [params.author]
 thumbnail = "/images/profile.jpeg"
