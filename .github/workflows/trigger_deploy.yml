@@ -31,4 +31,4 @@ jobs:
           token: ${{ secrets.INFRA_REPO_PAT }}
           repository: Shinogasa/Shinonome-doki-infra
           event-type: deploy-hugo
-          client-payload: '{"branch": "${{ github.event.inputs.branch || github.ref_name }}"}'
+          client-payload: '{"branch": ${{ toJSON(github.event.inputs.branch || github.ref_name) }}}'

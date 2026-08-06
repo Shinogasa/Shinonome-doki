@@ -7,6 +7,21 @@ deploy by GitHub Actions
 
 https://github.com/dim0627/hugo_theme_robust
 
+## Setup
+
+初回 clone 時、テーマが git submodule のため展開が必要。
+
+```bash
+git submodule update --init --recursive
+```
+
+Hugo は **Extended 版が必須**（テーマが SCSS を `toCSS` でコンパイルするため）。
+
+```bash
+brew install hugo
+hugo version # '+extended' が含まれることを確認
+```
+
 ## Usage
 
 ### 記事テンプレ

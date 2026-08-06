@@ -1,17 +1,24 @@
 baseurl = "https://shinonono.net"
-title = "シノノメドキ"
 theme = "robust"
+# サイトタイトルは languages.toml の [ja].title が実効値（言語別設定に一本化）
 
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
 timeZone = "Asia/Tokyo"
 
+# X/Twitter埋め込みshortcodeのリモート取得警告を抑止（本番ビルドで頻発するため）
+ignoreLogs = ['shortcode-x-getremote']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.ja]
     label = "Japanese"
     weight = 1
-    title = "シノノメドキ"
 
 [services]
   [services.disqus]
@@ -23,7 +30,7 @@ timeZone = "Asia/Tokyo"
   posts = "/posts/:slug/"
 
 [params]
-description = "しののめの個人ブログ。Webエンジニアリングや日常について書いています。"
+# サイト説明文は languages.toml の [ja.params].description が実効値（言語別設定に一本化）
 dateformat = "Jan 2, 2006" # Optional
 # Fonts settings.
 googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700&display=swap" # Optional, Include google fonts.

@@ -69,12 +69,10 @@ highlight.js は下記の理由で削除したため SRI 対応は不要にな�
 `permissions: {}` を追加。`repository-dispatch` を `@v2` → `@v4.0.1`（SHA固定）へ更新。
 v2→v4 は依存更新のみで入出力インターフェースの破壊的変更は無いことを changelog で確認済み。
 
-### 新たに見つかったもの: client-payload の文字列組み立て
+### client-payload の文字列組み立て 【対応済み】
 
-`client-payload: '{"branch": "${{ ... github.ref_name }}"}'` は `github.ref_name` を
-JSON文字列へ直接埋め込んでいる。ブランチ名に `"` 等が含まれると壊れる可能性はあるが、
-ブランチ作成には push 権限が要るため悪用は現実的に低リスク。
-→ **決めること**: `toJSON(...)` 相当で安全にエスケープするか、放置するか。
+`toJSON(github.event.inputs.branch || github.ref_name)` でエスケープするよう修正。
+`actionlint` で構文検証済み。
 
 ### PAT の運用
 
@@ -147,22 +145,26 @@ Google が日本語で表示するのは概ね全角80文字程度なので、�
 
 ## P5: ディレクトリ・設定の整理
 
-- **`content/posts/2025−06-11-blogcard-robust/` のディレクトリ名に U+2212（全角マイナス）が混入。**
-  URL は `slug` が決めるので表示に影響は無いが、パス指定やスクリプトが確実に踏む。改名する。
-- **`content/posts/about/`** が記事扱いで `/posts/about/` になっている。固定ページなら
-  `content/about/` へ移す。front matter の `description: Zzo about page` は
-  **別テーマ（Zzo）の残骸**がそのまま meta description に出ているので消す。
-- **`.hugo_build.lock` が git に追跡されていた。** 【対応済み】`git rm --cached` で解除。
-- **root `hugo.toml` にダミーの `baseURL = 'https://example.org/'` / `title = 'My New Hugo Site'`**
-  が残っている。実効値は `config/_default/` 側。誤診の元なので削除し、
-  `ignoreLogs` と `markup` も `config/_default/config.toml` へ寄せて設定を1箇所にする。
-- **`title` と `description` が `config.toml` と `languages.toml` で二重定義**されている。
-  片方に寄せる。
-- **`tags` を使っている記事が0件**なのに `baseof.html` が `partials/tags.html` を呼んでいる。
-  出力は空なので無害だが、タグ運用を始めないなら呼び出しを消す。
-- **`migration/*.py` はデッドコード**（WordPress 移行の使い捨て）。削除するか
-  `docs/` 等へ退避する。
-- **README に submodule 初期化手順が無い。** 実際にこれで環境構築が詰まった。
-  `git submodule update --init --recursive` と Hugo Extended 必須である旨を追記する。
+以下、`content/posts/2025−06-11-blogcard-robust/` 改名から README 追記までの7件は
+**2026-08-06 に対応済み**。
+
+- `content/posts/2025−06-11-blogcard-robust/` の U+2212（全角マイナス）を半角へ改名
+  （`git mv`。slugが別に定義されているためURLへの影響なし）
+- `content/posts/about/` の `description: Zzo about page`（別テーマ Zzo の残骸）を
+  実内容に合わせた文言に修正（ページ自体は `/posts/about/` のまま、type別レイアウトが
+  存在しないため移動は見送り）
+- root `hugo.toml` を削除し、`ignoreLogs` と `markup.goldmark.renderer.unsafe` を
+  `config/_default/config.toml` へ集約。root 削除後も `config/_default/` のみで
+  ビルド・実効値が変わらないことを実測確認
+- `title`/`description` の二重定義を解消。`hugo config` で実効値を確認したところ
+  **`config.toml` 側の `[params].description` は既に `languages.toml` の
+  `[ja.params].description` に上書きされ死んでいた**（意図せず無効化されていた設定）。
+  実際に効いていた `languages.toml` 側を正としてコメントで明示し、`config.toml` 側は削除
+- `tags` 利用0件のため `baseof.html` から `partials/tags.html` の呼び出しを削除
+- `migration/*.py`（WordPress移行の使い捨てスクリプト）を削除
+- README に `git submodule update --init --recursive` と Hugo Extended 必須の旨を追記
+
+### 未対応（判断待ちのまま）
+
 - **Hugo のバージョンピンが無い。** ローカルと infra 側の乖離を検知できない
   （`tasks/todo.md` の残課題と同一）。
