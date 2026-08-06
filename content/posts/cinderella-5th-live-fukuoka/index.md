@@ -4,12 +4,12 @@ date: 2017-08-02 00:19:00
 slug: cinderella-5th-live-fukuoka
 draft: False
 categories:
-  - シンデレラガールズ
+ - シンデレラガールズ
 ---
 
 ### 激アツの福岡公演
 
-地方公演最後の福岡公演．暑さがとんでもないことになっていましたがライブの熱気はそれ以上でした！ 記憶が薄れないうちにレポ． ![](https://lh3.googleusercontent.com/-0pA-EXsxNc4/WX8WRmEK5XI/AAAAAAAAYUY/6Po-xwqbF9ojIiFYefdo30lJOJG4aEC1ACE0YBhgL/s1024/20170731_113155.jpg)
+地方公演最後の福岡公演．暑さがとんでもないことになっていましたがライブの熱気はそれ以上でした！ 記憶が薄れないうちにレポ． 
 
 ### セットリスト
 

@@ -53,11 +53,11 @@ DMM.Akibaで作成
 
 基盤CADで配線．
 
- はじめは下のような配線だったのが ![](https://lh3.googleusercontent.com/-OkKNAI_IMzQ/VrSYRXNS1LI/AAAAAAAASYY/PSueILLC41Y/s1024/CameraZOOM-20160205161919888.jpg)
+ はじめは下のような配線だったのが ![](CameraZOOM-20160205161919888.jpg)
 
 こうなって
 
-![](https://lh3.googleusercontent.com/-yyRUrvV5plU/VrSYPi_X-NI/AAAAAAAASYY/VcXKYprr0Z8/s1024/CameraZOOM-20160205161804568.jpg) こうなった． ![](https://lh3.googleusercontent.com/-JRcaF3YzLGM/VrSk7tvFnNI/AAAAAAAASfQ/DRSF2Xb4Q54/s1024/CameraZOOM-20160205162839321.jpg) 配線作業はパズル． 
+![](CameraZOOM-20160205161804568.jpg) こうなった． ![](CameraZOOM-20160205162839321.jpg) 配線作業はパズル． 
 
 使ってる抵抗とかは表面実装(足のないやつ)タイプ．
 
@@ -91,7 +91,7 @@ DMM.Akibaで作成
 
 ボトムブラケット(下記写真)には10センチの段差から落ちた時に垂直方向１２０Gかかる．
 
-![](https://lh3.googleusercontent.com/-SpnZNGT4L4c/VrSlAzgGY4I/AAAAAAAASfQ/mLzFMSsF1dc/s1024/CameraZOOM-20160205163439562.jpg)
+![](CameraZOOM-20160205163439562.jpg)
 
 コレに耐えられるようになければならない．
 
@@ -103,7 +103,7 @@ DMM.Akibaで作成
 
 3トライでこぎつけた(左から右)．
 
-![](https://lh3.googleusercontent.com/-j1QgaheardQ/VrSlEcTvpFI/AAAAAAAASfQ/wp_59u3X5T4/s1024/CameraZOOM-20160205163850051.jpg)
+![](CameraZOOM-20160205163850051.jpg)
 
 周りの知識がある人を総動員．
 

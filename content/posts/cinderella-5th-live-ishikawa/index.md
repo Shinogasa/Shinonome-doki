@@ -4,7 +4,7 @@ date: 2017-05-31 00:08:00
 slug: cinderella-5th-live-ishikawa
 draft: False
 categories:
-  - シンデレラガールズ
+ - シンデレラガールズ
 ---
 
 もう涙で前が見えませんでした． 
@@ -15,7 +15,7 @@ categories:
 
 ### セットリスト
 
-大丈夫！ファミ通のレポートだよ！  [www.famitsu.com](https://www.famitsu.com/news/201705/28134053.html) （いつもありがとうございます） 
+大丈夫！ファミ通のレポートだよ！ [www.famitsu.com](https://www.famitsu.com/news/201705/28134053.html) （いつもありがとうございます） 
 
 #### Yes! Party Time!!
 
@@ -27,7 +27,7 @@ categories:
 
 #### 恋のHamburg♪
 
-可愛いですよね．フライパンとフライ返し持ってて振りも調理の様子が入ってて本当に良いお嫁さん感が出てました． 初日の夜にはもちろんハンバーグ食べました． キッチンユキのベーキライスですがとても美味しかったです！ ![](https://lh3.googleusercontent.com/-yTyGBihTQBs/WSmMngnYreI/AAAAAAAAXec/FX3x24jrK7gBXevRVjZR9_3nWSeY5W0iwCE0/s1024/20170527_212542.jpg)
+可愛いですよね．フライパンとフライ返し持ってて振りも調理の様子が入ってて本当に良いお嫁さん感が出てました． 初日の夜にはもちろんハンバーグ食べました． キッチンユキのベーキライスですがとても美味しかったです！ 
 
 #### 青空リレーション
 
@@ -45,7 +45,7 @@ categories:
 > 
 > — 威風堂々なお猿 (@SARU_KABUTO) [2017年5月27日](https://twitter.com/SARU_KABUTO/status/868452416445759488)
 
- 
+
 
 #### ヴィーナスシンドローム
 
@@ -97,4 +97,4 @@ categories:
 
 ### ありがとう石川
 
-もう最高の一言だった石川公演．心の底から現地参戦できてよかったと思える2日間でした． 自分の担当2人が大好きな曲を目の前で歌ってくれる．これほどの幸せがあって良いのでしょうか． しかも2日目にはデレステでの限定夏樹の復刻ガチャも有り，開場前にて引いてみたらお迎えできることが出来ました． ![](https://lh3.googleusercontent.com/-ekAgW3UOv-E/WSrcX1nnNyI/AAAAAAAAXfk/qM_kfBOimp8NqecS2Y_Cl69b0e5Mbp0SgCE0/s1024/Screenshot_20170528-151240.png) ![](https://lh3.googleusercontent.com/-ZzQwgsWUkPo/WS2DYtmGSnI/AAAAAAAAXik/SCFy-4EgiRU2H_VE6CDuE17HWBzeXEsEACE0/s1024/Screenshot_20170530-233603.png) もう俺ヤバイんじゃないかと思ったら案の定，帰宅途中に交通事故に巻き込まれたので皆さんお気をつけください． この石川公演がまだ2公演目だなんて本当に信じられませんが，まだまだ続く5thライブツアー．心して楽しんでいきましょう！ [amazonjs asin="B06XHPZPV8" locale="JP" title="アイドルマスター シンデレラガールズ劇場 第1巻( 「シンデレラガールズ5thライブツアー」ファイナル先行抽選申し込みシリアル封入 ) Blu-ray"]
+もう最高の一言だった石川公演．心の底から現地参戦できてよかったと思える2日間でした． 自分の担当2人が大好きな曲を目の前で歌ってくれる．これほどの幸せがあって良いのでしょうか． しかも2日目にはデレステでの限定夏樹の復刻ガチャも有り，開場前にて引いてみたらお迎えできることが出来ました． もう俺ヤバイんじゃないかと思ったら案の定，帰宅途中に交通事故に巻き込まれたので皆さんお気をつけください． この石川公演がまだ2公演目だなんて本当に信じられませんが，まだまだ続く5thライブツアー．心して楽しんでいきましょう！ [amazonjs asin="B06XHPZPV8" locale="JP" title="アイドルマスター シンデレラガールズ劇場 第1巻( 「シンデレラガールズ5thライブツアー」ファイナル先行抽選申し込みシリアル封入 ) Blu-ray"]

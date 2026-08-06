@@ -21,7 +21,7 @@ Mac用のSlackでチームを削除してアプリを再起動すると削除し
 ### こうすりゃいい
 
   1. 削除したいチームで一番上のチーム名クリック
-  2. 出てきたドロップダウンメニューの“Sign out of [Team Name]”をクリック ![f:id:Shinogasa:20170125202427p:plain:w200](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20170125/20170125202427.png)
+  2. 出てきたドロップダウンメニューの“Sign out of [Team Name]”をクリック ![f:id:Shinogasa:20170125202427p:plain:w200](20170125202427.png)
   3. チームがアプリから削除される
   4. アプリ再起動しても復活してない!!
 
