@@ -11,6 +11,9 @@ resources/
 .DS_Store
 Thumbs.db
 
+# 使い捨てのタスク計画（backlog.md 等は管理対象）
+tasks/todo.md
+
 # エディタの一時ファイル
 *.swp
 *.swo

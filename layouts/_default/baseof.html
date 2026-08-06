@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.Language.Locale }}">
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}{{ end }}{{ .Site.Title }}</title>
@@ -13,10 +13,8 @@
     {{ else }}
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
     {{ end }}
-    {{ if .Site.Params.EnableHighlight | default false }}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.0/styles/default.min.css">
-    {{ end }}
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" crossorigin="anonymous">
+    {{/* コードハイライトは Hugo 内蔵の Chroma がビルド時に行う。highlight.js は不要（配色は markup.highlight.style で変える） */}}
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous" referrerpolicy="no-referrer">
     <style>
 {{ with resources.Get "styles.scss" | toCSS }}
   {{ replace .Content `@charset "UTF-8";` "" | safeCSS }}
@@ -80,7 +78,6 @@
             {{ partial "latests.html" . }}
             {{ partial "categories.html" . }}
             {{ partial "widgets/adsense.html" . }}
-            {{ partial "tags.html" . }}
           </aside>
         </div>
       </div>
@@ -96,10 +93,6 @@
       </div>
     </footer>
 
-    {{ if .Site.Params.EnableHighlight | default false }}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.0/highlight.min.js" crossorigin="anonymous"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
-    {{ end }}
   </body>
 </html>
 
