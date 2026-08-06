@@ -1,11 +1,19 @@
 {{- /*
   Markdown の画像記法 `![alt](src)` に対するレンダーフック。
 
-  画像の実体がどこにあるかで、できることが変わる。
-    - page bundle 同梱（相対パス）: Hugo のリソースなのでリサイズと寸法取得ができる
-    - static 配下（/ 始まり）・外部URL: リソースパイプラインの対象外。寸法が取れない
+  画像の実体がどこにあるかで解決方法が変わる。
 
-  そのため前者はリサイズ + width/height 付与、後者は遅延読み込みのみ付与する。
+    1. page bundle 同梱（相対パス）      -> .Page.Resources から取得
+    2. assets 配下（/images/... 始まり） -> resources.Get で取得し、
+                                            resources.Copy で元と同じURLへ出力する
+    3. 上記で解決できないもの（外部URL、static 配下に残っている画像）
+                                         -> 素の <img>。寸法が取れないため属性のみ付与
+
+  2 の resources.Copy が要点。assets のリソースは通常 `/images/xxx_hu_<hash>.png` の
+  ような加工後URLで公開されるが、Copy で出力先を元のパスに固定すると
+  **公開URLを変えないまま**リサイズと寸法取得ができる。
+  記事のURL（slug）に画像を結合させずに済むため、後から slug を変更しても画像は動かない。
+
   記事内で最初に現れる画像（.Ordinal 0）は LCP 要素になりうるため遅延させない。
 */ -}}
 
@@ -17,12 +25,21 @@
 
 {{- $dest := .Destination -}}
 {{- $isExternal := (urls.Parse $dest).Scheme -}}
-{{- $isStatic := strings.HasPrefix $dest "/" -}}
+{{- $isAbsolute := strings.HasPrefix $dest "/" -}}
 
-{{- /* bundle 同梱の画像だけがリソースとして解決できる */ -}}
 {{- $resource := false -}}
-{{- if not (or $isExternal $isStatic) -}}
-  {{- with .Page.Resources.Get $dest -}}
+{{- $publishPath := "" -}}
+
+{{- if $isExternal -}}
+  {{- /* 外部URLには手を出せない */ -}}
+{{- else if $isAbsolute -}}
+  {{- /* assets 配下を探す。見つからなければ static に残っている画像なので素通し */ -}}
+  {{- with resources.Get (strings.TrimPrefix "/" $dest) -}}
+    {{- $resource = . -}}
+    {{- $publishPath = $dest -}}
+  {{- end -}}
+{{- else -}}
+  {{- with $.Page.Resources.Get $dest -}}
     {{- $resource = . -}}
   {{- end -}}
 {{- end -}}
@@ -36,6 +53,10 @@
   {{- /* 本文の表示幅を超える分は転送する意味がないので縮める */ -}}
   {{- if gt .Width $maxDisplayWidth -}}
     {{- $img = .Resize (printf "%dx q82" $maxDisplayWidth) -}}
+  {{- end -}}
+  {{- /* assets 由来のものは元のURLへ出力し直し、公開URLを変えない */ -}}
+  {{- with $publishPath -}}
+    {{- $img = resources.Copy . $img -}}
   {{- end -}}
   <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $.Text }}"{{ with $.Title }} title="{{ . }}"{{ end }} loading="{{ $loading }}" decoding="async"{{ if $isFirst }} fetchpriority="high"{{ end }}>
 {{- else -}}
