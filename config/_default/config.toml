@@ -48,4 +48,7 @@ twitter = "https://x.com/Shinogasa"
 github = "https://github.com/Shinogasa"
 
 [outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+# AMP は出力しない。Google は 2021年の Page Experience アップデートで Top Stories の
+# AMP 必須要件を廃止しており、現在 AMP に検索上の優遇は無い（評価軸は Core Web Vitals）。
+# 141ページを二重生成し、テンプレート変更のたびに AMP 側の影響を考えるコストだけが残るため外した。
+page = [ "HTML" ]

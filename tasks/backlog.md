@@ -165,32 +165,49 @@ slug が `post-NNN` 形式**で B（slug是正）の候補と重なるため、U
 `resources.Copy` なら、URL構造を保ったままリソースパイプラインに載せられる。
 構造変更を伴う移行を検討するときは、まず出力先を制御する手段がないか確認する。
 
-### AMP 出力をやめるか
+### AMP 出力をやめる 【対応済み: 2026-08-06 / infra 側の対応待ち】
 
-141ページを二重生成している。Google は 2021年に Top Stories の AMP 必須要件を廃止済みで、
-現在 AMP に検索上の優遇は無い。害は無いが、テンプレート変更のたびに AMP 側の
-影響を考える必要がある（`themes/robust/layouts/_default/baseof.amp.html` 経由）。
-→ **決めること**: `config/_default/config.toml` の `outputs.page` から `AMP` を外すか。
-外す場合、既に `/amp/**` がインデックスされている可能性があるため、
-infra 側で 301 か 410 を返す必要があるかを併せて判断する。
+`config/_default/config.toml` の `outputs.page` から `AMP` を外した。
 
-### 意味を持たない slug が41記事 【infra へ引き継ぎ済み: 2026-08-06】
+判断の根拠（実施前に再確認済み）: Google は 2021年の Page Experience アップデートで
+Top Stories の AMP 必須要件を廃止しており、**AMP に検索上の優遇は無い**。
+評価軸は Core Web Vitals に移っている。二重生成のコストだけが残る状態だった。
+
+- ビルド結果: 330ページ → **189ページ**（差分141が AMP 分と一致）
+- `rel="amphtml"` はテーマの `partials/meta.html` の `.AlternativeOutputFormats`
+  ループ由来のため**自動的に消えた**（テンプレート変更は不要だった）
+- トップの RSS `rel="alternate"` は影響を受けず健在
+- `sitemap.xml` は 164URL で変化なし（元々 AMP を含んでいなかった）
+
+→ **infra 側の対応待ち**: 旧 `/amp/**` 141URL は現在 404 になる。
+`/amp/posts/xxx/` → `/posts/xxx/` の **301** が必要
+（パスから `/amp` を落とすだけで対応先が一意に決まるため、個別マッピングは不要）。
+410 ではなく 301 を選ぶ理由は、AMPページには元々 HTML への `rel="canonical"` が
+張ってあり、Google は既に「正規版は HTML 側」と認識しているため。
+410 はその関係を自分から断ち切ることになる。
+infra 側は AMP 廃止を想定済みで、ADR-0001 の Risks に
+「`/amp/posts/X/ → /posts/X/` の単純なプレフィックス変換で件数に依存しない」と記録がある。
+
+### 意味を持たない slug が41記事 【判断済み: 実施しない】
 
 `post-0` `post-327` `2015-06-10-231752` … WordPress 移行時の残骸。URL が内容を示していない。
 （当初 40記事と記録していたが、`2020-09-19-22` が日付+連番形式で判定から漏れていた。正しくは41件）
 
-**301 リダイレクトの実装は infra リポジトリの管轄**のため、対象URL一覧・実装先の調査結果・
-デプロイ順序の注意点をまとめて `Shinogasa/Shinonome-doki-infra` の
-`docs/handoff-slug-redirect.md` へ引き継いだ（同リポジトリ `tasks/backlog.md` の D4 から辿れる）。
+**2026-08-07 に「一括是正は実施しない」と決定した。** 判断は infra 側の
+[ADR-0001](https://github.com/Shinogasa/Shinonome-doki-infra/blob/main/docs/adr/0001-no-bulk-slug-normalization.md)
+に記録されている（調査資料は同リポジトリ `docs/handoff-slug-redirect.md`）。
 
-→ **コンテンツ側で決めること**: 41件の新スラッグを確定させる。
-infra 側の 301 実装はマッピングが決まらないと着手できない。
+要点:
+- リダイレクトは「スラッグを変える」選択の結果として発生するコストであり、変えなければ発生しない。
+  放置は劣化ではなく現状維持
+- 41件の対応表（約2.5KB）が CloudFront Function の 10KB 上限を恒久的に占有し、
+  削除すると旧リンクが死ぬため永久に保守対象になる
 
-補足:
-- E の対応で画像URLは slug から独立したままになったため、**B を実施しても画像URLは動かない**。
-  記事URLの301だけを考えればよい
-- デプロイ順序は「コンテンツ側で `aliases` 併用 → 先にデプロイ → infra が 301 を被せる」を推奨。
-  どの時点でも旧URLが 404 にならない（詳細は引き継ぎ資料）
+→ **運用方針**: 新規記事のみ意味のあるスラッグを用い、既存の旧スラッグURLはそのまま維持する。
+再検討の条件は ADR の Risks 参照（GTM で旧スラッグ記事の流入が多いと判明した場合）。
+
+補足: E の対応で画像URLは slug から独立したままになったため、
+将来もし是正する場合でも記事URLの301だけを考えればよい。
 
 ### 記事ごとの `description` が未設定 【対応済み: 2026-08-06】
 
