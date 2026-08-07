@@ -11,7 +11,7 @@ categories:
 
 ### IoT案件を70件やってみて分ったこと
 
-http://2016.cross-party.com/program/a2 ニフティIoTデザインセンターを設立して案件70件ほどやってみて見えてきた感じたことや課題などのセッションでした． ランチセッションだったのでとんかつまい泉お弁当付きでした． ご飯食べながら技術セッション聞けるなんて贅沢． 美味しかったです． ![](https://lh3.googleusercontent.com/-osTIx8-3zuY/VrSYCvNG0II/AAAAAAAASYY/4HkUgcJ01Qw/s1024/CameraZOOM-20160205125155879.jpg)
+http://2016.cross-party.com/program/a2 ニフティIoTデザインセンターを設立して案件70件ほどやってみて見えてきた感じたことや課題などのセッションでした． ランチセッションだったのでとんかつまい泉お弁当付きでした． ご飯食べながら技術セッション聞けるなんて贅沢． 美味しかったです． ![](CameraZOOM-20160205125155879.jpg)
 
 #### IoTデザインセンターとは
 

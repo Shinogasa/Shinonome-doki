@@ -49,7 +49,7 @@ mesageを変えれば喋る言葉変えられます．
 
 ### 配線
 
-正しい配線はこちら ![](https://lh3.googleusercontent.com/-EmB2mPGjrO8/VnejAB26KHI/AAAAAAAARZs/ZVBvofQ2Wp4/s1024/CameraZOOM-20151221155537035.jpg) 見にくいかもしれませんが24番ポートを使ってます． 
+正しい配線はこちら ![](CameraZOOM-20151221155537035.jpg) 見にくいかもしれませんが24番ポートを使ってます． 
 
 ### ソース
 

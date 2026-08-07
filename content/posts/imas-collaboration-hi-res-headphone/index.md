@@ -15,11 +15,11 @@ categories:
 
 ### アイドルマスター ハイレゾ体験会
 
-イベント会場は八重洲のギブソンブランドショールーム． ![](https://lh3.googleusercontent.com/-ia6VKPC0IY4/WDqnYkXzk2I/AAAAAAAAVhU/Fjp8n9Y2L7Ewpm5vDimj3ccMl1uo3__1QCKgB/s1024/IMG_20161127_144109.jpg) 今日はアイマスのために貸し切りの表示がしてありました． 
+イベント会場は八重洲のギブソンブランドショールーム． ![](IMG_20161127_144109.jpg) 今日はアイマスのために貸し切りの表示がしてありました． 
 
 #### コラボヘッドホン
 
-試聴機が何台も置いてありましたよ． 側面のデザインはこんな感じ． ![](https://lh3.googleusercontent.com/-iCA07Dtyy7w/WDqnZr064JI/AAAAAAAAVhU/UlgV0K4Nt98mOPEcJqIfY_A5nu1eRy_fgCKgB/s1024/IMG_20161127_153659.jpg) 広げてみた状態． この状態で使わないときは首に掛けるんですね． ![](https://lh3.googleusercontent.com/-or4n38o9ppE/WDqna25ztTI/AAAAAAAAVhU/EREXEIYK-6oUPZu_0ja7lluJZLyc_OkSgCKgB/s1024/IMG_20161127_153715.jpg) デザインは今後色などの微調整が入るかもしれないとのことでした． ![](https://lh3.googleusercontent.com/-GIRb8Of9hZo/WDqndf5ekaI/AAAAAAAAVhU/_HuGKIwpOJQXY8HQzCzcJ-IldhUHxipuQCKgB/s1024/IMG_20161127_153813.jpg) 箱はヘッドホンの箱にアイマスのスリーブがついていました． ![](https://lh3.googleusercontent.com/-cf-bqjMkAvM/WDqncYONsiI/AAAAAAAAVhU/T6Qj8ZgnS-Is8_33AU9HP6bU9sp4AvqOgCKgB/s1024/IMG_20161127_153804.jpg) ヘッドホンケースはナイロンの不織布っぽい感じ． 試聴機を使って色々アイマス楽曲を聴いてみました． 私の試聴環境は以下の通り． DAP : iPhone4 直挿し 再生ソフト : TuneShell 音源 : CDをWAVでリッピングしたものをflacに圧縮 ぶっちゃけDAPが貧弱なのと主観が入っていますので参考程度にしかならないと思いますがそれぞれ楽曲を聞いた感想を． 
+試聴機が何台も置いてありましたよ． 側面のデザインはこんな感じ． ![](IMG_20161127_153659.jpg) 広げてみた状態． この状態で使わないときは首に掛けるんですね． ![](IMG_20161127_153715.jpg) デザインは今後色などの微調整が入るかもしれないとのことでした． ![](IMG_20161127_153813.jpg) 箱はヘッドホンの箱にアイマスのスリーブがついていました． ![](IMG_20161127_153804.jpg) ヘッドホンケースはナイロンの不織布っぽい感じ． 試聴機を使って色々アイマス楽曲を聴いてみました． 私の試聴環境は以下の通り． DAP : iPhone4 直挿し 再生ソフト : TuneShell 音源 : CDをWAVでリッピングしたものをflacに圧縮 ぶっちゃけDAPが貧弱なのと主観が入っていますので参考程度にしかならないと思いますがそれぞれ楽曲を聞いた感想を． 
 
 ##### Snow Wings
 
@@ -185,4 +185,4 @@ categories:
 
 #### おまけ
 
-試聴したらクリアファイルもらいました！ ![](https://lh3.googleusercontent.com/-5yxbe46saGY/WDrhnoT6dXI/AAAAAAAAVho/dmIRRpdCzDYjgMHYrRLPisVZhn1QQa8VACKgB/s1024/IMG_20161127_202502.jpg)
+試聴したらクリアファイルもらいました！ ![](IMG_20161127_202502.jpg)

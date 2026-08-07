@@ -4,7 +4,7 @@ date: 2016-03-22 19:00:00
 slug: 2016-03-22-imas-cinderella-cafe-2
 draft: False
 categories:
-  - シンデレラガールズ
+ - シンデレラガールズ
 ---
 
 前回に引き続き2度目の訪問です． http://shinonono.net/entry/2016/02/13/113000 2月末で終了予定だったデレマスカフェですが期間延長＋メニュー変更となりました． プロジェクトクローネ，トライアドプリムスとままゆのメニューが追加されていますね． 
@@ -15,23 +15,23 @@ categories:
 
 #### LOVE LAIKAのMemories
 
-![](https://lh3.googleusercontent.com/-RAdDBpFvFSg/Vu_mf1yukXI/AAAAAAAASxw/1uup68OT5nUcL0lc3vI0zHXuhvrw1UXXQ/s1024/image.jpg) LOVE LAIKAのイメージカラーである白と青のドリンクで，ホワイトウォーターとのことでしたがカルピスですねコレ． 浮かんでるアイスの中にはラムネがゴロゴロ入っていていいアクセントに． 爽やかで美味しかったです． [amazonjs asin="B01CJBOQRA" locale="JP" title="アイドルマスター シンデレラガールズ LOVE LAIKA ロゴデカアクリルキーホルダー"] 
+LOVE LAIKAのイメージカラーである白と青のドリンクで，ホワイトウォーターとのことでしたがカルピスですねコレ． 浮かんでるアイスの中にはラムネがゴロゴロ入っていていいアクセントに． 爽やかで美味しかったです． [amazonjs asin="B01CJBOQRA" locale="JP" title="アイドルマスター シンデレラガールズ LOVE LAIKA ロゴデカアクリルキーホルダー"] 
 
 #### Triad Primusのおにぎらず
 
-Triad Primusのメニューは昨年ブームになっていたおにぎらず． ![](https://lh3.googleusercontent.com/-pEHKnRu78RE/Vu_mtUpkOlI/AAAAAAAASxw/CpGRNxspfQMleYUOVRGxoJuYSgi7h9j6Q/s1024/image.jpg) 海苔にはTriadPrimusのロゴが薄っすらと． ![](https://lh3.googleusercontent.com/-bJ8qyrx8LQg/Vu_m0Vcap7I/AAAAAAAASxw/95HMAgb6GeAxXCYzaO0AHLJCvA2tTMHQg/s1024/image.jpg) 目をこなさなければ見えないさり気なさ． 肝心のお味はお米に塩気がなくなんか物足りなかったのですが付け合せの漬物がナイスカバー． たまごそぼろとハンバーグも良かったのですがポロポロ崩れてきてしまって少し食べづらかったところもありました． 
+Triad Primusのメニューは昨年ブームになっていたおにぎらず． 海苔にはTriadPrimusのロゴが薄っすらと． 目をこなさなければ見えないさり気なさ． 肝心のお味はお米に塩気がなくなんか物足りなかったのですが付け合せの漬物がナイスカバー． たまごそぼろとハンバーグも良かったのですがポロポロ崩れてきてしまって少し食べづらかったところもありました． 
 
- 
+
 
 [amazonjs asin="B071WJGXV1" locale="JP" title="アイドルマスター シンデレラガールズ Triad Primus Tシャツ ブラック XLサイズ"]
 
 #### デザート・・・？
 
-ぴにゃこら太パフェと悩んだ末不安しかありませんがせっかくなのでこちらにチャレンジ． モバマスのイベントSRで出てきたあのいちごパスタがまさかのメニュー化してしまいました． ![](https://lh3.googleusercontent.com/--iqcNmDlubU/Vu_m83-lASI/AAAAAAAASxw/-jNaLMbbjxokeaU44wggU3oA8OyF-FR9w/s1024/image.jpg) ![f:id:Shinogasa:20160321235243j:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20160321/20160321235243.jpg) 見た目はSRイラストのパスタと少し異なりいちごソースがかかっています． 肝心の味はイマイチ・・・． パスタがピンクでいちご感すごいするのですが味は微かにいちごの味がするかな？という程度でパスタの小麦粉の味が非常に出ていました． そしてパスタがとても短いのでポロポロ落ちてしまいとても食べにくかったです． 上のホイップクリームといちごソースと下に敷いてあるシリアルを混ぜて食べましたがパスタの味が強すぎていちごソースどこ行ったという感じ． しかもホイップクリームもあるので結構重く食べたあと胸焼けのするパスタは初めてでした・・・． 再現しようと思ったのはいいのですがちょいとコレはお勧めできませんね． [amazonjs asin="B016QQX0LC" locale="JP" title="THE IDOLM@STER CINDERELLA MASTER 036橘ありす"] 
+ぴにゃこら太パフェと悩んだ末不安しかありませんがせっかくなのでこちらにチャレンジ． モバマスのイベントSRで出てきたあのいちごパスタがまさかのメニュー化してしまいました． ![f:id:Shinogasa:20160321235243j:plain](20160321235243.jpg) 見た目はSRイラストのパスタと少し異なりいちごソースがかかっています． 肝心の味はイマイチ・・・． パスタがピンクでいちご感すごいするのですが味は微かにいちごの味がするかな？という程度でパスタの小麦粉の味が非常に出ていました． そしてパスタがとても短いのでポロポロ落ちてしまいとても食べにくかったです． 上のホイップクリームといちごソースと下に敷いてあるシリアルを混ぜて食べましたがパスタの味が強すぎていちごソースどこ行ったという感じ． しかもホイップクリームもあるので結構重く食べたあと胸焼けのするパスタは初めてでした・・・． 再現しようと思ったのはいいのですがちょいとコレはお勧めできませんね． [amazonjs asin="B016QQX0LC" locale="JP" title="THE IDOLM@STER CINDERELLA MASTER 036橘ありす"] 
 
 #### 新しいグッズも
 
-期間延長に合わせてスマホ画面クリーナーが新発売されていました． ![](https://lh3.googleusercontent.com/-K-obAmlEWxI/Vu_ZrevKG-I/AAAAAAAASxA/YvfniKYtGO4wmAgSmA7KOcsO6Q8RC_B2Q/s1024/CameraZOOM-20160321202304997.jpg) 各グループのデザインをあしらったもので非常にカッコ良くなっております． Rosenburg EngelとProject Kroneなんて普段使いしていてもアニメのものだと気づかれなさそうですね． 
+期間延長に合わせてスマホ画面クリーナーが新発売されていました． 各グループのデザインをあしらったもので非常にカッコ良くなっております． Rosenburg EngelとProject Kroneなんて普段使いしていてもアニメのものだと気づかれなさそうですね． 
 
 #### 行ってみて
 

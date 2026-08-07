@@ -11,8 +11,9 @@
       "@type": "ImageObject",
       "url": "{{ absURL (.Params.thumbnail | default "images/default.png") }}"
     },
-    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05+09:00" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05+09:00" }}",
+    {{/* Z07:00 でサイトの timeZone 設定からオフセットを生成する（+09:00 のハードコードは設定と二重管理になる） */}}
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
     "author": {
       "@type": "Person",
       "name": {{ .Site.Params.author.name | default .Site.Title | jsonify | safeJS }}
@@ -25,6 +26,6 @@
         "url": "{{ absURL "images/profile.jpeg" }}"
       }
     },
-    "description": {{ .Description | default .Summary | plainify | jsonify | safeJS }}
+    "description": {{ partial "normalized-description.html" . | jsonify | safeJS }}
   }
 </script>

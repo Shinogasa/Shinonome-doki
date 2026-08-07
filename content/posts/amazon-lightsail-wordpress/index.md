@@ -28,13 +28,13 @@ categories:
 
 コンソールからLightsailのページへ行って「インスタンスの作成」をクリック．
 
-![f:id:Shinogasa:20180109222533p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20180109/20180109222533.png)
+![f:id:Shinogasa:20180109222533p:plain](20180109222533.png)
 
 上の画像は既にインスタンス1個作成済みですが作成していなかったら真ん中に作成のボタンがあった気が．
 
 インスタンスのイメージの選択でWordPressを選択します．
 
-![f:id:Shinogasa:20180109222942p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20180109/20180109222942.png)
+![f:id:Shinogasa:20180109222942p:plain](20180109222942.png)
 
 多分デフォで選択されてます．
 
@@ -58,7 +58,7 @@ categories:
 
 ホームに戻って作成したインスタンスをクリックすると管理画面が表示されます．
 
-![f:id:Shinogasa:20180109224555p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20180109/20180109224555.png)
+![f:id:Shinogasa:20180109224555p:plain](20180109224555.png)
 
 表示されてるパブリックIPをアドレスバーにコピペしてアクセスすると
 
@@ -72,7 +72,7 @@ WordPressの初期画面が表示されますね．
 
 そうなってWordPressつながらねえってならないようにするためにIPを固定しましょう．
 
-![f:id:Shinogasa:20180109225611p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20180109/20180109225611.png)
+![f:id:Shinogasa:20180109225611p:plain](20180109225611.png)
 
 管理画面の**ネットワーキング** をクリックして
 
@@ -177,13 +177,13 @@ Route53にアクセスしたら**DNS management** の**Get started now** をク�
 
 で**Create**.
 
-![f:id:Shinogasa:20180111212225p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20180111/20180111212225.png)
+![f:id:Shinogasa:20180111212225p:plain](20180111212225.png)
 
 そうしたらNS4つとSOA1つが生成されます．
 
 後でNSを使うので4つともメモっておきましょう．
 
-![f:id:Shinogasa:20180111212951p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20180111/20180111212951.png)
+![f:id:Shinogasa:20180111212951p:plain](20180111212951.png)
 
 #### Record Setする
 

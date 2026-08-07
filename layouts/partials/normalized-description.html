@@ -1,0 +1,20 @@
+{{- /*
+  記事の説明文を meta タグ / JSON-LD に入れられる形へ正規化して返す。
+
+  front matter の description を優先し、無ければ .Summary（本文冒頭の自動切り出し）に
+  フォールバックする。.Summary は HTML タグ・実体参照・改行を含むため、そのまま出力すると
+  タグや改行が meta に混入する。
+
+  呼び出し: {{ partial "normalized-description.html" . }}
+
+  注意:
+  - plainify はタグを除去するが実体参照は解除しない（safe HTML として返すだけ）ため、
+    htmlUnescape を続けないと出力時に二重エスケープされる
+  - trim は第1引数が入力。パイプで渡すと引数順が入れ替わり空文字になる
+*/ -}}
+
+{{- $maxLength := 120 -}}{{/* 日本語だと検索結果で表示されるのは概ねこの程度 */}}
+
+{{- $desc := .Description | default .Summary | plainify | htmlUnescape -}}
+{{- $desc = trim (replaceRE `\s+` " " $desc) " " -}}
+{{- return truncate $maxLength "…" $desc -}}

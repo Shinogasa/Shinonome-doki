@@ -1,17 +1,23 @@
-<meta name="description" content="{{ .Description | default .Summary }}">
+{{- /* 記事ページの description / OGP / Twitter Card */ -}}
 
-<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
+{{- $desc := partial "normalized-description.html" . -}}
+{{- $title := printf "%s - %s" .Title .Site.Title -}}
+{{- $image := absURL (.Params.thumbnail | default "images/default.png") -}}
+
+<meta name="description" content="{{ $desc }}">
+
+<meta property="og:title" content="{{ $title }}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:image" content="{{ absURL (.Params.thumbnail | default "images/default.png") }}">
+<meta property="og:image" content="{{ $image }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:description" content="{{ .Description | default .Summary }}">
+<meta property="og:description" content="{{ $desc }}">
 <meta property="og:locale" content="ja_JP">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@Shinogasa">
 <meta name="twitter:creator" content="@Shinogasa">
 <meta name="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
-<meta name="twitter:description" content="{{ .Description | default .Summary }}">
-<meta name="twitter:image" content="{{ absURL (.Params.thumbnail | default "images/default.png") }}">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $image }}">

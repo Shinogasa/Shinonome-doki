@@ -16,7 +16,7 @@ categories:
 
 ### テーブル
 
-値を入れているテーブルはこんなかんじ． ![f:id:Shinogasa:20170222155639p:plain:w500](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20170222/20170222155639.png) ツリー形式だとこんな感じ 
+値を入れているテーブルはこんなかんじ． ![f:id:Shinogasa:20170222155639p:plain:w500](20170222155639.png) ツリー形式だとこんな感じ 
     
     
     {
@@ -101,7 +101,7 @@ categories:
 
 ### Cognito
 
-認証のやつ． ぶっちゃけそこまで理解していない．難しい． コレを入れてるとセキュアにAWSのサービスにアクセスできるらしいけどしっかり調べていないので今後の課題． 最上段に設定してあるCognitoのIdentityPoolIDは下記から持ってくる． Cognito -> Manage Federated Identities -> 作成してあるIdentity pool選択 (Identyty poolが無い場合はCreate new identity poolから作る) -> Sample code -> Get AWS Credentials ![f:id:Shinogasa:20170222160907p:plain:w500](https://cdn-ak.f.st-hatena.com/images/fotolife/S/Shinogasa/20170222/20170222160907.png)
+認証のやつ． ぶっちゃけそこまで理解していない．難しい． コレを入れてるとセキュアにAWSのサービスにアクセスできるらしいけどしっかり調べていないので今後の課題． 最上段に設定してあるCognitoのIdentityPoolIDは下記から持ってくる． Cognito -> Manage Federated Identities -> 作成してあるIdentity pool選択 (Identyty poolが無い場合はCreate new identity poolから作る) -> Sample code -> Get AWS Credentials ![f:id:Shinogasa:20170222160907p:plain:w500](20170222160907.png)
 
 ### DynamoDBまわり
 

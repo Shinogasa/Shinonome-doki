@@ -1,12 +1,9 @@
 name: Trigger Deploy
 
+# PRのマージはmainへのpushを伴うため、push だけでマージも手動マージも拾える。
+# pull_request(closed) を併記すると1回のマージで2回デプロイが走る。
 on:
   push:
-    branches:
-      - main
-  pull_request:
-    types:
-      - closed
     branches:
       - main
   workflow_dispatch:
@@ -21,8 +18,6 @@ permissions: {} # GITHUB_TOKEN は使わない（デプロイは secrets.INFRA_R
 
 jobs:
   trigger:
-    # PRがマージされた場合または手動実行の場合のみ実行
-    if: github.event.pull_request.merged == true || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Trigger deployment workflow
