@@ -74,18 +74,35 @@ v2→v4 は依存更新のみで入出力インターフェースの破壊的変
 `toJSON(github.event.inputs.branch || github.ref_name)` でエスケープするよう修正。
 `actionlint` で構文検証済み。
 
-### PAT の運用
+### PAT の運用 【対応済み: 2026-08-08】
 
-→ **決めること**: `INFRA_REPO_PAT` を fine-grained PAT / GitHub App トークンに
-移行するか、現状のまま運用するか。infra リポジトリ側の受け口とセットで決まる話なので、
-どちらのリポジトリで管理するかも含めて決める。
+**`INFRA_REPO_PAT` を fine-grained PAT に置換した。** GitHub App も検討したが、
+個人ブログに App の管理という新しい運用対象を増やす割に、fine-grained PAT で
+「1リポジトリ・1権限・期限あり」まで絞れるため費用対効果で PAT を選んだ。
 
-### PR マージでデプロイが2回走る
+- Repository access: `Shinonome-doki-infra` のみ
+- Permissions: Contents: Read and write（`repository_dispatch` に必要）
+- Expiration: 期限あり
 
-`push: main` と `pull_request: closed` の両方が発火する。PR マージは main への
-push を伴うため、1回のマージで `repository_dispatch` が2回飛ぶ。
-→ **決めること**: `pull_request` トリガーを削るか（`push: main` だけで足りる）、
-`workflow_dispatch` 以外を整理するか。infra 側が冪等なら放置も可。
+deploy key は git 操作用の鍵で **API 呼び出しには使えない**ため選択肢から外れる。
+
+対になる infra 側の `CONTENT_REPO_PAT` は、調査の結果 **そもそも不要だったため削除**した
+（`actions/checkout` が認証を要するのは private / internal の場合のみ。このリポジトリは public）。
+classic PAT はアカウント配下の全リポジトリに read/write が効くため、実質2本とも
+「全リポジトリへの write」を配っていた状態から、1本かつ最小権限まで絞れたことになる。
+
+**作業中に PAT の取り違え事故が起きた。** 経緯と教訓は infra 側 `tasks/backlog.md` の
+S9 に記録してある（revoke 対象の識別手段が無かったこと、手動デプロイという迂回路が
+可用性を守ったこと）。
+
+→ **残る運用メモ**: 有効期限が切れると `Bad credentials` でデプロイが**予告なく静かに止まる**。
+更新期日をカレンダーに登録しておくこと。
+
+### PR マージでデプロイが2回走る 【対応済み: 2026-08-06】
+
+`push: main` と `pull_request: closed` の両方が発火し、1回のマージで
+`repository_dispatch` が2回飛んでいた。PR マージは main への push を伴うため
+`push` だけで足りる。`pull_request` トリガーとジョブの `if` 条件を削除した。
 
 ### 確認したが問題なかったもの（再調査の手間を省くため記録）
 
