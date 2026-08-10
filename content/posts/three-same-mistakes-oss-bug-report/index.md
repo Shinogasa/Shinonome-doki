@@ -2,7 +2,7 @@
 title: "grepで「無い」ことは証明できない ── OSSのバグを報告するまでに、同じ推論の誤りを3回踏んだ"
 date: 2026-08-06 00:00:00
 slug: three-same-mistakes-oss-bug-report
-draft: true
+draft: false
 description: '「探し方の範囲に無い」を「存在しない」と読み替える誤りを3回踏み、OSSのバグ報告に辿り着くまでの記録。不在の証明・測定の設計・検査不能の扱いといった再利用できる検査の型と、AIと調べたとき人間の介入が効いた4箇所をまとめる。'
 categories:
   - プログラミング
