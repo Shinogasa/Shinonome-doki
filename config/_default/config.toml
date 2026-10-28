@@ -1,5 +1,5 @@
 baseurl = "https://shinonono.net"
-theme = "robust"
+# テーマは末尾の [module] で読み込む（AMPテンプレートを除外するため theme 設定は使わない）
 # サイトタイトルは languages.toml の [ja].title が実効値（言語別設定に一本化）
 
 defaultContentLanguage = "ja"
@@ -52,3 +52,25 @@ github = "https://github.com/Shinogasa"
 # AMP 必須要件を廃止しており、現在 AMP に検索上の優遇は無い（評価軸は Core Web Vitals）。
 # 141ページを二重生成し、テンプレート変更のたびに AMP 側の影響を考えるコストだけが残るため外した。
 page = [ "HTML" ]
+
+[module]
+# テーマの AMP テンプレート（*.amp.html）を読み込み対象から外す。
+# 出力形式で AMP を止めても、テーマの baseof.amp.html は 404 ページの baseof 候補に残り、
+# ビルドごとに非決定的に選ばれていた（0.164.0〜0.169.0 で確認）。さらに同ファイルは
+# libsass（toCSS）を呼ぶため、libsass が削除された Hugo ではビルドがランダムに失敗する。
+# mounts を書くとテーマの既定マウントは置き換わるため、テーマが持つディレクトリを全て列挙する。
+  [[module.imports]]
+    path = "robust"
+    [[module.imports.mounts]]
+      source = "layouts"
+      target = "layouts"
+      files = ["! **.amp.html"]
+    [[module.imports.mounts]]
+      source = "assets"
+      target = "assets"
+    [[module.imports.mounts]]
+      source = "static"
+      target = "static"
+    [[module.imports.mounts]]
+      source = "archetypes"
+      target = "archetypes"
