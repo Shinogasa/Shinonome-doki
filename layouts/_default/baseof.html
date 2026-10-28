@@ -16,11 +16,13 @@
     {{/* コードハイライトは Hugo 内蔵の Chroma がビルド時に行う。highlight.js は不要（配色は markup.highlight.style で変える） */}}
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous" referrerpolicy="no-referrer">
     <style>
-{{ with resources.Get "styles.scss" | toCSS }}
+{{/* libsass は Hugo v0.153.0 で deprecated。Dart Sass の実行ファイル（sass）がローカルとCIの両方に必要 */}}
+{{ $sassOpts := dict "transpiler" "dartsass" }}
+{{ with resources.Get "styles.scss" | css.Sass $sassOpts }}
   {{ replace .Content `@charset "UTF-8";` "" | safeCSS }}
 {{ end }}
 {{ if .Site.Params.Author }}
-  {{ with resources.Get "author.scss" | toCSS }}
+  {{ with resources.Get "author.scss" | css.Sass $sassOpts }}
     {{ replace .Content `@charset "UTF-8";` "" | safeCSS }}
   {{ end }}
 {{ end }}

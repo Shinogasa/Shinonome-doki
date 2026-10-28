@@ -20,3 +20,6 @@ tasks/todo.md
 *~
 .vscode/
 .idea/
+
+# タスクごとの計画ファイル
+tasks/todo/
