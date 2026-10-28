@@ -15,7 +15,7 @@ https://github.com/dim0627/hugo_theme_robust
 git submodule update --init --recursive
 ```
 
-Hugo は **Extended 版が必須**。テーマの SCSS は **Dart Sass** でコンパイルする（libsass は Hugo v0.153.0 で deprecated）。
+Hugo は **Extended 版が必須**。テーマの SCSS は Dart Sass でコンパイルする（libsass は Hugo v0.153.0 で deprecated）。
 
 ```bash
 brew install hugo dart-sass
@@ -26,8 +26,8 @@ sass --version
 本番ビルドの Hugo / Dart Sass のバージョンは `Shinonome-doki-infra` の `deploy.yml` で固定している。
 ローカルもそれに揃える。
 
-`sass` が無くてもローカルではビルドが通ることがある（`resources/_gen` のキャッシュが使われるため）。
-CI はキャッシュが無いので失敗する。確かめるときは `resources/` を消してからビルドする。
+ローカルでは `resources/_gen` のキャッシュが使われるため、`sass` が無くてもビルドが通ることがある。
+CI にはキャッシュが無いので失敗する。CI と同じ条件でビルドできるかを確かめるときは、`resources/` を消してからビルドする。
 
 ## Usage
 
