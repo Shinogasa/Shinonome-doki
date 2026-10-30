@@ -1,7 +1,7 @@
 ---
-title: '2026 10 30 Shikishima Distopia'
+title: '2026 10 30 Shikishima Dystopia'
 date: 2026-10-30T21:09:05+09:00
-slug: 2026-10-30-shikishima-distopia
+slug: 2026-10-30-shikishima-dystopia
 draft: true
 # 検索結果に出る説明文。全角80〜120文字程度で書く。
 # 未記入だと本文冒頭が自動で使われる（意図した要約にはならない）。
