@@ -45,6 +45,18 @@ Lightsailではコンソールからアップロードすることができな�
 
 https://www.iscle.com/web-it/g-drive/adsense/ads-txt-keikoku.html 
 
-https://gloria.cool/blog/20190611-adsense-adstxt/ 
+https://gloria.cool/blog/20190611-adsense-adstxt/
 
-[kattene] { "image": "https://images-na.ssl-images-amazon.com/images/I/41Do-5YqjQL._SX351_BO1,204,203,200_.jpg", "title": "Google AdSense マネタイズの教科書[完全版]", "sites": [ { "color": "orange", "url": "https://amzn.to/2JpuZTb", "label": "Amazon", "main": "true" }, { "color": "blue", "url": "https://amzn.to/2Uphjhi", "label": "Kindle" }, { "color": "red", "url": "https://hb.afl.rakuten.co.jp/ichiba/18bf1b7c.65602340.18bf1b7d.9c7f8714/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15659075%2F&link_type=text&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJ0ZXh0Iiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjB9", "label": "楽天" } ] } [/kattene] 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Google AdSense マネタイズの教科書［完全版］","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/51ZNK1VPaRL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07RM59DFY","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B07RM59DFY","a_id":1052536,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Google%20AdSense%20%E3%83%9E%E3%83%8D%E3%82%BF%E3%82%A4%E3%82%BA%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%EF%BC%BB%E5%AE%8C%E5%85%A8%E7%89%88%EF%BC%BD\/","a_id":1052522,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=Google%20AdSense%20%E3%83%9E%E3%83%8D%E3%82%BF%E3%82%A4%E3%82%BA%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%EF%BC%BB%E5%AE%8C%E5%85%A8%E7%89%88%EF%BC%BD","a_id":1052554,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"Tiuxz","s":"s"});
+</script>
+<div id="msmaflink-Tiuxz">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+

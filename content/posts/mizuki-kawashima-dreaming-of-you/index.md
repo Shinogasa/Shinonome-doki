@@ -31,9 +31,20 @@ https://www.youtube.com/watch?v=JYkq1mjXN0U
 セクシーなベースがリードしてブラス隊が入ってくる，**これぞファンク** ですね．  
 ここは**完全にチャカ・カーンのWhat Cha' Gonna Do for Me** を意識しているとしか思えないほどそっくりなんですよね．
 
-https://www.youtube.com/watch?v=0uiIrJvCn1w 
+https://www.youtube.com/watch?v=0uiIrJvCn1w
 
-[kattene] { "image": "https://images-na.ssl-images-amazon.com/images/I/51tbTRScTvL._AC_.jpg", "title": "WHAT CHA' GONNA DO FOR ME: EXPANDED", "sites": [ { "color": "orange", "url": "https://amzn.to/3bynbem", "label": "Amazon", "main": "true" }, { "color": "blue", "url": "https://amzn.to/2VDve3W", "label": "Prime Music" }, { "color": "red", "url": "https://hb.afl.rakuten.co.jp/ichiba/18bf1b7c.65602340.18bf1b7d.9c7f8714/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F13783901%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowfQ%3D%3D", "label": "楽天" } ] } [/kattene] 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"What Cha Gonna Do For Me: Expanded Edition","b":"Cherry Red","t":"WCDBBRX0331","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/413LOyaHoRL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B019HU97UW","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B019HU97UW","a_id":1052536,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/What%20Cha%20Gonna%20Do%20For%20Me%3A%20Expanded%20Edition\/","a_id":1052522,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=What%20Cha%20Gonna%20Do%20For%20Me%3A%20Expanded%20Edition","a_id":1052554,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"mikKp","s":"s"});
+</script>
+<div id="msmaflink-mikKp">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 What Cha' Gonna Do for Meだとハイハットがチッチキと刻んでいるんですが，Dreaming of youはチキチキの16ビートで刻んでいて少しカッチリしたリズム感に．
 
@@ -141,4 +152,16 @@ What Cha' Gonna Do for Meだとハイハットがチッチキと刻んでいる�
 読んでいただきありがとうございました．  
 チャオ☆．
 
-[kattene] { "image": "https://images-na.ssl-images-amazon.com/images/I/81ak3EC0yXL._AC_SL1166_.jpg", "title": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 16 ∀NSWER", "sites": [ { "color": "orange", "url": "https://amzn.to/2x2x2Kz", "label": "Amazon", "main": "true" }, { "color": "red", "url": "https://hb.afl.rakuten.co.jp/ichiba/18bf1b7c.65602340.18bf1b7d.9c7f8714/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15412378%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowfQ%3D%3D", "label": "楽天" } ] } [/kattene] 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 16 ∀NSWER","b":"日本コロムビア","t":"","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61PBCYMve8L._SL500_.jpg","\/616GsqVp-rL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07BNJTMP4","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B07BNJTMP4","a_id":1052536,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%20STARLIGHT%20MASTER%2016%20%E2%88%80NSWER\/","a_id":1052522,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=THE%20IDOLM%40STER%20CINDERELLA%20GIRLS%20STARLIGHT%20MASTER%2016%20%E2%88%80NSWER","a_id":1052554,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"aOHn6","s":"s"});
+</script>
+<div id="msmaflink-aOHn6">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
