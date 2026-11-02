@@ -13,17 +13,17 @@ categories:
 
 会場は都内某所にある隠れ家的なバー． ドアには鍵がかかっており，開けるには暗証番号が必要． スタッフさんから「ヒントはザ・グレンリベットにとって重要な4桁の数字」とのヒントが． ドアの前に置いてあったザ・グレンリベット ファウンダーズリザーブのボトルにはグレンリベットが**英国政府公認第一号の蒸留所として認められた年である1824** の数字． 暗証番号に1824を入力するとドアが開き，いざ会場へ．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51H0ZvYEAqL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B00TSAH04M/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51H0ZvYEAqL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00TSAH04M)
 
-[ザ・グレンリベット ファウンダーズリザーブ 700ml シングルモルトスコッチウイスキー ギフト箱入り スコットランド](https://www.amazon.co.jp/exec/obidos/ASIN/B00TSAH04M/deltafantom-22/)
+[ザ・グレンリベット ファウンダーズリザーブ 700ml シングルモルトスコッチウイスキー ギフト箱入り スコットランド](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00TSAH04M)
 
 posted with [カエレバ](http://kaereba.com)
 
 ペルノリカール 2016-11-08
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%AA%E3%83%99%E3%83%83%E3%83%88&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
   会場内はザ・グレンリベット コードのようなミステリアスな雰囲気に飾られておりました． 椅子に座って開演を待っているとスタッフさんからハイボールの提供が． ![](/images/2018/04/20180418_184158-198x300.jpg) 雰囲気もあってかいつもより強くフルーティな香りと軽やかな味わいを感じられました．  
 
@@ -39,17 +39,17 @@ posted with [カエレバ](http://kaereba.com)
 
 ![](/images/2018/04/20180418_192523-169x300.jpg) 提供されたグラスは茶色のテイスティンググラス． イアンからはまずウイスキーに挨拶と自己紹介をしようとのアドバイス． **グラスを回して香りを出して嗅ぐ，これを何度か繰り返してウイスキーの香りに慣れる．** こうすることでウイスキーに潜んだ様々な香りを感じ取ることができるようになるんだとか． 実際にイアンが「こんにちは！」「私はイアンです」「ここのバーにはよく来るんですか？」とジョークを交えつつお手本を見せてくださいました．   そして私達参加者も真似をして香りを感じつつストレートでテイスティング． 花のようなフローラルな香りと甘さが感じられ，加水すると更に香りが花開き，よりフローラルさを感じることが出来ました．   加水する時は1滴ずつ加水する人もいますが，**イアン的にはこだわらず大雑把** にウイスキーと同量を加水する程度で十分とのこと． ウイスキーを楽しんでいるドリンカーならではの言葉だなあと思いました．   そしてこのウイスキーの正体は**ザ・グレンリベット12年** ． フローラルな香りとバニラを中心としたテイストにスムースな口当たり． グレンリベットの最もスタンダードな1本ですが，こうやって味わうとまた違った香りと味が感じ取れました．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/4132DV%2BVV9L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B001TP4S62/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/4132DV%2BVV9L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB001TP4S62)
 
-[ザ・グレンリベット 12年 700ml シングルモルトスコッチウイスキー ギフト箱入り スコットランド](https://www.amazon.co.jp/exec/obidos/ASIN/B001TP4S62/deltafantom-22/)
+[ザ・グレンリベット 12年 700ml シングルモルトスコッチウイスキー ギフト箱入り スコットランド](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB001TP4S62)
 
 posted with [カエレバ](http://kaereba.com)
 
 ペルノリカール 2014-04-08
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%AA%E3%83%99%E3%83%83%E3%83%88&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
  
 
@@ -57,17 +57,17 @@ posted with [カエレバ](http://kaereba.com)
 
 続いての1杯もブラインドテイスティング． 今度は先ほどと打って変わって非常にスパイシーな香りで，飲んでみると口の中がピリピリしました． スパイシーさの中に微かにスモーキーさが感じられ，ピリッとした中にもフルーツのような甘みが感じられました． イアンからのヒントはこの**スパイシーさとピリピリするところ** ． ピリピリするというということは12年よりも**アルコール度数が高い，それも50°よりも上** ．   このウイスキーは**ザ・グレンリベット ナデューラ オロロソ．** 加水をしていないカスクストレングスなためアルコール度数は60.3°． そのためピリッとしたスパイシーさとパンチの効いた味に仕上がっています．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51qAg8c43yL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B010V0AG9I/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51qAg8c43yL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB010V0AG9I)
 
-[ザ・グレンリベット ナデューラ オロロソ 1000ml 48度 [並行輸入品]](https://www.amazon.co.jp/exec/obidos/ASIN/B010V0AG9I/deltafantom-22/)
+[ザ・グレンリベット ナデューラ オロロソ 1000ml 48度 [並行輸入品]](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB010V0AG9I)
 
 posted with [カエレバ](http://kaereba.com)
 
 グレンリベット
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%AA%E3%83%99%E3%83%83%E3%83%88%20%E3%83%8A%E3%83%87%E3%83%A5%E3%83%BC%E3%83%A9&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%258A%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%258A%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2520%25E3%2583%258A%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
  
 
@@ -91,14 +91,14 @@ posted with [カエレバ](http://kaereba.com)
 
 こうして最後までザ・グレンリベットを堪能することの出来た今回のイベント． かなり倍率が高かったとのことで当選したのは非常に幸運でした．   アルファ，サイファーに続く謎に包まれたザ・グレンリベット コード． これをご覧になっている貴方も是非バーへ足を運び，アラン・ウィンチェスターのからの挑戦に挑み，ザ・グレンリベット コードを "**UNLOCK THE CODE** "してみてはいかがでしょうか．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51BNWEJbT6L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B00HWNILB8/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51BNWEJbT6L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00HWNILB8)
 
-[ザ・グレンリベット 18年 700ml 43度 [正規品]](https://www.amazon.co.jp/exec/obidos/ASIN/B00HWNILB8/deltafantom-22/)
+[ザ・グレンリベット 18年 700ml 43度 [正規品]](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00HWNILB8)
 
 posted with [カエレバ](http://kaereba.com)
 
 ザ・グレンリベット
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%AA%E3%83%99%E3%83%83%E3%83%88&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%2599%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)

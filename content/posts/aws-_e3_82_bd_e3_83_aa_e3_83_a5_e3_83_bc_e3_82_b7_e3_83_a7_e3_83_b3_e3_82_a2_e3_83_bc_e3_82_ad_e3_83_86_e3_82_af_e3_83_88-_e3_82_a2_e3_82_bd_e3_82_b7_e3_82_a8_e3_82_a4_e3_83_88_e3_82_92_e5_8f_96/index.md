@@ -14,7 +14,22 @@ categories:
 
 ### 対策本
 
-一番時間を割いたのは対策本を読んで**理解・暗記** すること． 自分は黒本と呼ばれている下記の対策本を2周通して読んで，それぞれの章末についている確認問題解いてみてわからないところを見直してました． [kattene] { "image": "https://images-na.ssl-images-amazon.com/images/I/91X-Q%2BaBb1L.jpg", "title": "徹底攻略 AWS認定 ソリューションアーキテクト – アソシエイト教科書 徹底攻略シリーズ", "description": "", "sites": [ { "color": "orange", "url": "https://amzn.to/30X254Q", "label": "Amazon", "main": "true" }, { "color": "red", "url": "//af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F15742600%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbook%2Fi%2F19433294%2F", "label": "楽天" } ] } [/kattene] 重要なところがわかりやすくまとめられていて，章末の問題もあるので理解度チェックもしやすいです． 購入特典で独自の模擬試験がダウンロードできるのが結構ありがたいですね． 受験3日前に解いてみたら半分くらいしか取れなくて，そこから間違った問題を復習して本番に備えました． 
+一番時間を割いたのは対策本を読んで**理解・暗記** すること． 自分は黒本と呼ばれている下記の対策本を2周通して読んで，それぞれの章末についている確認問題解いてみてわからないところを見直してました．
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"徹底攻略 AWS認定 ソリューションアーキテクト − アソシエイト教科書 第3版［SAA-C03］対応 徹底攻略シリーズ","b":"インプレス","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/51NzhXtma2L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0BY7X5DTM","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0BY7X5DTM","a_id":1052536,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E5%BE%B9%E5%BA%95%E6%94%BB%E7%95%A5%20AWS%E8%AA%8D%E5%AE%9A%20%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%20%E2%88%92%20%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8%20%E7%AC%AC3%E7%89%88%EF%BC%BBSAA-C03%EF%BC%BD%E5%AF%BE%E5%BF%9C%20%E5%BE%B9%E5%BA%95%E6%94%BB%E7%95%A5%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA\/","a_id":1052522,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E5%BE%B9%E5%BA%95%E6%94%BB%E7%95%A5%20AWS%E8%AA%8D%E5%AE%9A%20%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%20%E2%88%92%20%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8%20%E7%AC%AC3%E7%89%88%EF%BC%BBSAA-C03%EF%BC%BD%E5%AF%BE%E5%BF%9C%20%E5%BE%B9%E5%BA%95%E6%94%BB%E7%95%A5%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA","a_id":1052554,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"8HHXz","s":"s"});
+</script>
+<div id="msmaflink-8HHXz">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+重要なところがわかりやすくまとめられていて，章末の問題もあるので理解度チェックもしやすいです． 購入特典で独自の模擬試験がダウンロードできるのが結構ありがたいですね． 受験3日前に解いてみたら半分くらいしか取れなくて，そこから間違った問題を復習して本番に備えました． 
 
 ### 模試
 
@@ -22,7 +37,20 @@ categories:
 
 ### 実務経験
 
-これはできればという感じですが，やはり実際に手を動かしていたりサービスに触っていたりするとかなり問題のイメージがしやすいです． 実務でなかなかさわれないよって方は下記の紫本で実際に手を動かしてみるとイメージしやすいかと思います． ただ，なかなかのボリュームですので時間に余裕があればという感じですね． [kattene] { "image": "https://images-na.ssl-images-amazon.com/images/I/51Fl-rIvlFL._SX385_BO1,204,203,200_.jpg", "title": "Amazon Web Services 基礎からのネットワーク＆サーバー構築 改訂版", "description": "", "sites": [ { "color": "orange", "url": "https://amzn.to/2GnUVxd", "label": "Amazon", "main": "true" }, { "color": "red", "url": "522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2F337bdb4bbd8531d4b8205727bf66b2e6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutenkobo-ebooks%2Fi%2F16324433%2F", "label": "楽天" } ] } [/kattene] 
+これはできればという感じですが，やはり実際に手を動かしていたりサービスに触っていたりするとかなり問題のイメージがしやすいです． 実務でなかなかさわれないよって方は下記の紫本で実際に手を動かしてみるとイメージしやすいかと思います． ただ，なかなかのボリュームですので時間に余裕があればという感じですね．
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Amazon Web Services基礎からのネットワーク＆サーバー構築改訂４版","b":"","t":"","d":"https:\/\/m.media-amazon.com","c_p":"","p":["\/images\/I\/51FciS4b1FL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0C3L6NC76","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0C3L6NC76","a_id":1052536,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Amazon%20Web%20Services%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%EF%BC%86%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89%E6%94%B9%E8%A8%82%EF%BC%94%E7%89%88\/","a_id":1052522,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=Amazon%20Web%20Services%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%EF%BC%86%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89%E6%94%B9%E8%A8%82%EF%BC%94%E7%89%88","a_id":1052554,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"gwDlA","s":"s"});
+</script>
+<div id="msmaflink-gwDlA">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 
 ## 受験してみて
 

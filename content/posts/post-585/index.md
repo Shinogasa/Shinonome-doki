@@ -10,9 +10,9 @@ categories:
 こんにちは，しののめ([@Shinogasa](https://twitter.com/Shinogasa))です！ 10月27日に福井大学 松岡キャンパスで開催された  
 「安野さんと大旅行 in 福井」に参加してきました！ 今回のイベントは遠征して本当に良かったと思える濃密なトークショーでした． トークに集中しつつもメモ取ってていましたので簡単にレポです！ 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51r44v6lOvL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQN5L15/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51r44v6lOvL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQN5L15)
 
-[【Amazon.co.jp限定】笑顔。(CD)(通常盤)(複製サイン&コメント入りポストカード)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQN5L15/deltafantom-22/)
+[【Amazon.co.jp限定】笑顔。(CD)(通常盤)(複製サイン&コメント入りポストカード)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQN5L15)
 
 posted with [カエレバ](https://kaereba.com)
 
@@ -121,17 +121,17 @@ posted with [カエレバ](https://kaereba.com)
 今回のイベントは福井での開催ということで行くかどうか悩んでおりましたが， **行ってよかったと思えるトークショーでした** ． 大学の講義室なのでそこまで人数が多くなく，  
 距離も近くでしっかりと見ることができました． 司会の方も安野さんのファンということで，**話をしっかり引き出してくれて** これで2000円はありがたいですね． 自分としては福井と富山に友達がいたので観光もできるな！と イベント前後で観光も楽しんできました． 福井では一乗谷に丸岡城，ソースカツ丼を堪能し， 富山では世界一美しいなスタバのある富岩運河環水公園に日本一の落差の称名滝， そして鱒寿司を楽しんで北陸新幹線で帰宅． イベント以外でもとても充実した2日間となりました． また**ぜひ福井と富山に遊びに行きたい** ですね． さて，直近だと**2ndミニアルバム「笑顔」の発売** ， **シンデレラガールズメットライフドーム公演** ，そして**2ndライブツアー** と 年末までイベントがぎっしり． 特に2ndミニアルバムは今回も素敵な楽曲揃いで発売が待ち遠しいです． ライブツアーの追加公演もありますので発売されたら聴き込みますよ！ それでは，チャオ☆ 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51gYNazo3FL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQMXLFY/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51gYNazo3FL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQMXLFY)
 
-[【Amazon.co.jp限定】笑顔。(CD+Bru-ray)(BD付初回限定盤)(複製サイン&コメント入りポストカード)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQMXLFY/deltafantom-22/)
+[【Amazon.co.jp限定】笑顔。(CD+Bru-ray)(BD付初回限定盤)(複製サイン&コメント入りポストカード)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQMXLFY)
 
 posted with [カエレバ](https://kaereba.com)
 
 安野希世乃 ビクターエンタテインメント 2018-11-07 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/41tyzSQDcLL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B0143UM9UG/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41tyzSQDcLL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0143UM9UG)
 
-[吉田酒造 日本酒 飲み比べセット 白龍食中酒(純米大吟醸入り) 720ml×2本](https://www.amazon.co.jp/exec/obidos/ASIN/B0143UM9UG/deltafantom-22/)
+[吉田酒造 日本酒 飲み比べセット 白龍食中酒(純米大吟醸入り) 720ml×2本](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0143UM9UG)
 
 posted with [カエレバ](https://kaereba.com)
 

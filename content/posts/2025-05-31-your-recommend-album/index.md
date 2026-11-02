@@ -27,8 +27,8 @@ categories:
     title="August Burns Red / Constellations"
     summary=""
     image-url="https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/81rIT-H3qzL._AC_SL1500_.jpg"
-    amazon-url="https://amzn.to/45xT1qk"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/48ac5e64.cbcaa0f1.48ac5e65.468877d8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenet3%2F0010950225%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00CSJEKPW"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frenet3%2F0010950225%2F"
 >}}
 
 ## Bring Me The Horizon / There Is A Hell,Believe Me I’ve Seen It.There Is A Heaven,Let’s Keep A Secret
@@ -41,8 +41,8 @@ categories:
     title="Bring Me The Horizon / There Is A Hell,Believe Me I’ve Seen It.There Is A Heaven,Let’s Keep A Secret"
     summary=""
     image-url="https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/81s379KO6+L._AC_SL1425_.jpg"
-    amazon-url="https://amzn.to/45xW8hZ"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/18bf1b7c.65602340.18bf1b7d.9c7f8714/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18216949%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB015BY2PTI"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F18216949%2F"
 >}}
 
 ## BOOM BOOM SATELLITES / SHINE LIKE A BILLION SUNS
@@ -57,8 +57,8 @@ A HUNDRED SUNSゆったり盛り上がっていく感じが心地よくて好き
     title="BOOM BOOM SATELLITES / SHINE LIKE A BILLION SUNS"
     summary=""
     image-url="https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/31ZwZYSBCiL.__AC_SX300_SY300_QL70_ML2_.jpg"
-    amazon-url="https://amzn.to/4kNB23U"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/48ad0b17.d1aecca5.48ad0b18.8f30a21c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F6115113%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00Q9164C2"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F6115113%2F"
 >}}
 
 ## Crossfaith / XENO
@@ -71,8 +71,8 @@ A HUNDRED SUNSゆったり盛り上がっていく感じが心地よくて好き
     title=" Crossfaith / XENO"
     summary=""
     image-url="https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71zh58DBzdL._AC_SL1200_.jpg"
-    amazon-url="https://amzn.to/3FySGJu"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/48ad1be7.649c9ef1.48ad1be8.4395f10b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0017380002%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB011E92KS0"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0017380002%2F"
 >}}
 
 ## DEAD END / ZERO
@@ -86,8 +86,8 @@ V系の先駆けだからか思ったよりハードロック、メタル寄り�
     title="DEAD END / ZERO"
     summary=""
     image-url="https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/51DvYwIBXqL._AC_.jpg"
-    amazon-url="https://amzn.to/3Hxxjsx"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/18bf1b7c.65602340.18bf1b7d.9c7f8714/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F6231791%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB002UGMFXW"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F6231791%2F"
 >}}
 
 ## A Ghost of Flare / 鼓動
@@ -100,8 +100,8 @@ Silence and Then…の透明感のあるOvertureから疾走感のある鼓動�
     title="A Ghost of Flare / 鼓動"
     summary=""
     image-url="https://m.media-amazon.com/images/I/618hQyrqZGL._UX716_FMwebp_QL85_.jpg"
-    amazon-url="https://amzn.to/3FjkTnH"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/48ad1be7.649c9ef1.48ad1be8.4395f10b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0016956911%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00CHKTGVA"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbookoffonline%2F0016956911%2F"
 >}}
 
 ## IKD-SJ / 菊山箇醸其之一
@@ -113,7 +113,7 @@ Silence and Then…の透明感のあるOvertureから疾走感のある鼓動�
     title="IKD-SJ / 菊山箇醸其之一"
     summary=""
     image-url="https://m.media-amazon.com/images/I/41niaaaymZL._UX716_FMwebp_QL85_.jpg"
-    amazon-url="https://amzn.to/3SruoUP"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0067UOR6U"
     rakuten-url=""
 >}}
 
@@ -127,7 +127,7 @@ Silence and Then…の透明感のあるOvertureから疾走感のある鼓動�
     title="Lantanaquamara / 灯台へ"
     summary=""
     image-url="https://m.media-amazon.com/images/I/61jvT+r8I5L._UX716_FMwebp_QL85_.jpg"
-    amazon-url="https://amzn.to/3Z8hE9l"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BKV92SFS"
     rakuten-url=""
 >}}
 
@@ -146,8 +146,8 @@ Silence and Then…の透明感のあるOvertureから疾走感のある鼓動�
     title="…And Justice for All (Remastered Deluxe Box Set)"
     summary=""
     image-url="https://m.media-amazon.com/images/I/51clq3y-i1L._UX716_FMwebp_QL85_.jpg"
-    amazon-url="https://amzn.to/4kMkYzb"
-    rakuten-url="https://hb.afl.rakuten.co.jp/ichiba/48ad0b17.d1aecca5.48ad0b18.8f30a21c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F15960135%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07GXFSSVG"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhmvjapan%2F15960135%2F"
 >}}
 
 ## いろんなアルバムを聴いてみて

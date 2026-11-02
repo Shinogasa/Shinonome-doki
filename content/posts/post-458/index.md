@@ -31,14 +31,14 @@ categories:
 
 単純にファイルが足りなかったみたいですね． 下記参考にしました． https://liquibase.jira.com/browse/CORE-3201    
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51blgdC5j7L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/1785882872/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51blgdC5j7L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F1785882872)
 
-[Practical Devops](https://www.amazon.co.jp/exec/obidos/ASIN/1785882872/deltafantom-22/)
+[Practical Devops](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F1785882872)
 
 posted with [カエレバ](http://kaereba.com)
 
 Joakim Verona Packt Publishing 2016-02-16
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=liquibase&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dliquibase)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fliquibase%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fliquibase%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)

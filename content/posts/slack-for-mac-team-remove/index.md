@@ -31,9 +31,9 @@ Mac用のSlackでチームを削除してアプリを再起動すると削除し
 
 <http://www.9giantsteps.com/2016/02/04/how-to-remove-slack-teams-from-the-mac-slack-app-sidebar/>
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51g9K9r7quL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4774182389/deltafantom-22/ref=nosim/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51g9K9r7quL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4774182389)
 
-[Slack入門 [ChatOpsによるチーム開発の効率化]](http://www.amazon.co.jp/exec/obidos/ASIN/4774182389/deltafantom-22/ref=nosim/)
+[Slack入門 [ChatOpsによるチーム開発の効率化]](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4774182389)
 
 posted with [カエレバ](http://kaereba.com)
 

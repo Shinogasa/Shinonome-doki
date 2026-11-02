@@ -163,29 +163,29 @@ dockerコンテナ上の同じディレクトリを使うとダメなのかも�
 
 やはりCentOS上にDocker立てるのが正解かもしれないですね．
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51pj9W0WxzL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/4774170208/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51pj9W0WxzL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4774170208)
 
-[MariaDB&MySQL全機能バイブル](https://www.amazon.co.jp/exec/obidos/ASIN/4774170208/deltafantom-22/)
+[MariaDB&MySQL全機能バイブル](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4774170208)
 
 posted with [カエレバ](https://kaereba.com)
 
 鈴木 啓修,山田 奈緒子 技術評論社 2014-12-18
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=mariadb&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dmariadb)
 
 [楽天市場](//af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmariadb%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0)![](//i.moshimo.com/af/i/impression?a_id=1052522&p_id=54&pc_id=54&pl_id=616)
 
  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51ruD7ljn3L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/4798153222/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51ruD7ljn3L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4798153222)
 
-[プログラマのためのDocker教科書 第2版 インフラの基礎知識&コードによる環境構築の自動化](https://www.amazon.co.jp/exec/obidos/ASIN/4798153222/deltafantom-22/)
+[プログラマのためのDocker教科書 第2版 インフラの基礎知識&コードによる環境構築の自動化](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4798153222)
 
 posted with [カエレバ](https://kaereba.com)
 
 WINGSプロジェクト 阿佐 志保 翔泳社 2018-04-11
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=docker&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddocker)
 
 [楽天市場](//af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdocker%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0)![](//i.moshimo.com/af/i/impression?a_id=1052522&p_id=54&pc_id=54&pl_id=616)
 

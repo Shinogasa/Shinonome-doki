@@ -53,14 +53,14 @@ categories:
 
 ここからは少しマイナスな感じのお話になります． WWG5巻特装版についに収録された向井拓海のソロ曲炎の華． 私は初めてこの曲を試聴で聴いたとき，ものすごいモヤモヤしておりました． 周りのPがカッコいいと大絶賛している中，私は「コレは本当に拓海のソロなのか？」としっくり来ておりませんでした． 良い反応が非常に多い中，こんな気持ちを持ってしまった自分が不安でした． はらぼうがいい曲って言ってるんだから確かに拓海のソロ曲としていい曲なんだろうと信じ，何回もリピートしましたがその時は結局しっくり来ることはありませんでした．   そんなもやもやの中で迎えたWWG5巻発売日． 本編を読了して炎の華フルを聴いたとき私の中のもやもやが晴れました． **拓海が歌っている姿が浮かんできたんです** ． 曲を聴いている最中に**，WWG5巻 STAGE19.絆 ラストの拓海のライブシーン** が． あのライブシーンが浮かんできて，自分の中で「ああ，コレだ」とピースがはまり，もやもやが吹き飛んで行きました．   ただ，それと同時にこの曲は「**WWGの向井拓海のソロ曲** 」なんだなあとも感じたのです． **秋田書店さんがプロデュースしてくれた向井拓海** の物語であるWWGという作品の中で成長していき，その**集大成こそが炎の華** ． WWGは私にとって大切な作品ですし，迫ミサキ先生，秋田書店さん，そして曲を作ってくれた磯谷佳江さんと高取ヒデアキさんはじめ関係者の皆様には感謝してもしきれません． ですがあの曲はWWGの拓海のソロ曲だと感じてしまいました．   私はまだ向井拓海のシンデレラマスターを諦めていません． **私のプロデュースしてきた向井拓海** のソロをいつまでも待ち続けます． モバゲーのシンデレラガールズで一緒に仕事をして，いろんなカードと共に思い出を作ってきた拓海． スターライトステージで炎陣としてヘッドを張ったり，フリフリの衣装に身を包みながら歌って踊る拓海． そんな拓海が歌うソロ曲を私はいつまでも待っています．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51%2B1wf3ju5L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/4253252257/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51%2B1wf3ju5L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4253252257)
 
-[アイドルマスターシンデレラガールズＷＩＬＤ ＷＩＮＤ ＧＩＲＬオリジナルＣＤ付き特装版（5）（完結） (少年チャンピオン・コミックス・エクストラ)](https://www.amazon.co.jp/exec/obidos/ASIN/4253252257/deltafantom-22/)
+[アイドルマスターシンデレラガールズＷＩＬＤ ＷＩＮＤ ＧＩＲＬオリジナルＣＤ付き特装版（5）（完結） (少年チャンピオン・コミックス・エクストラ)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4253252257)
 
 posted with [カエレバ](http://kaereba.com)
 
 バンダイナムコエンターテインメント,迫 ミサキ 秋田書店 2018-03-08
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=wild%20wind%20girl&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dwild%2520wind%2520girl)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fwild%2520wind%2520girl%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fwild%2520wind%2520girl%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)

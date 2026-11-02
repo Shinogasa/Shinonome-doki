@@ -29,26 +29,26 @@ categories:
 
 安野希世乃さん1stシングル 「ロケットビート」しっかりと堪能させていただきました． 木村夏樹役，カナメ・バッカニア役の声優 安野希世乃とはまた違った**歌手 安野希世乃** の素敵なで可愛らしい歌声を楽しめるシングルでした． 前作のミニアルバム「涙。」に収録されている「さよならソレイユ」のような雰囲気が好きなら   このCDには4月29日にリバーウォーク北九州，5月6日に東京ドームシティ ラクーアガーデンステージで開催される**ミニライブ &特典会のイベント参加券**，7月29日にエ恵比寿ザ・ガーデンホールで開催される**安野希世乃バースデーイベント チケット優先販売申込券** が封入されています． また，カードキャプターさくら連動特典キャンペーンとして，EDテーマの鈴木みのりさん「リワインド」に封入されている応募券を貼り付けて応募すると直筆サイン入り色紙とクリアファイルが当たる連動キャンペーンも．   まだまだこれからの活躍が期待される安野希世乃さん． まずはロケットビートと逢いたくてを聴き込んでその歌声を堪能していきましょう！    
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51COzoOiLcL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07B18TBR2/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51COzoOiLcL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07B18TBR2)
 
-[ロケットビート](https://www.amazon.co.jp/exec/obidos/ASIN/B07B18TBR2/deltafantom-22/)
+[ロケットビート](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07B18TBR2)
 
 posted with [カエレバ](http://kaereba.com)
 
 安野希世乃 フライングドッグ 2018-04-25
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E5%AE%89%E9%87%8E%E5%B8%8C%E4%B8%96%E4%B9%83&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51XMRuSVX6L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07B11BZMS/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51XMRuSVX6L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07B11BZMS)
 
-[リワインド/Crosswalk (さくら盤)](https://www.amazon.co.jp/exec/obidos/ASIN/B07B11BZMS/deltafantom-22/)
+[リワインド/Crosswalk (さくら盤)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07B11BZMS)
 
 posted with [カエレバ](http://kaereba.com)
 
 鈴木みのり フライングドッグ 2018-05-09
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E9%88%B4%E6%9C%A8%E3%81%BF%E3%81%AE%E3%82%8A&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2588%25B4%25E6%259C%25A8%25E3%2581%25BF%25E3%2581%25AE%25E3%2582%258A)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%2588%25B4%25E6%259C%25A8%25E3%2581%25BF%25E3%2581%25AE%25E3%2582%258A%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%2588%25B4%25E6%259C%25A8%25E3%2581%25BF%25E3%2581%25AE%25E3%2582%258A%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)

@@ -23,17 +23,17 @@ categories:
 
 これで高音はいい感じになってくれたのですが，どうやらEchoをテーブルへ直置きしてしまっているため，低音によるEchoの振動がテーブルへ伝わって音が濁っているようです． そこで振動を軽減するためEchoとテーブルの間に振動を取り除くためのインシュレーターを噛ませてみました．   オーディオ用のインシュレーターは沢山売っていますが結構値段が張るもので4つで2000円から高いものは数万円までします． そこまでお金をかけて音質が改善されなかったら悲しいので，身近にあるものでなんとかならないかと試行錯誤． 最初はコルクの鍋敷きの上に置いてみましたが変わらず，硬めのモノということで木のコースターの上に置いてみましたがむしろ低音が強くなってしまったような・・・． 何か良いものはないものかと悩んでいたところ目についたのがこれ． ![](/images/2018/05/20180509_220659-e1527404820950-300x300.jpg) そう，ライブの物販でよくある**ラバーバンド** です． 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/311yD3613iL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B076S6XT1H/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/311yD3613iL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB076S6XT1H)
 
-[Ruikey シリコンバンド リストバンド 腕輪 運動 ベント 200*12*2cm イエロー 黄色](https://www.amazon.co.jp/exec/obidos/ASIN/B076S6XT1H/deltafantom-22/)
+[Ruikey シリコンバンド リストバンド 腕輪 運動 ベント 200*12*2cm イエロー 黄色](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB076S6XT1H)
 
 posted with [カエレバ](https://kaereba.com)
 
 Ruikey
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E3%83%A9%E3%83%90%E3%83%BC%E3%83%90%E3%83%B3%E3%83%89&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25B3%25E3%2583%2589)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25B3%25E3%2583%2589%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%25A9%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25B3%25E3%2583%2589%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
   何気なく目についてEchoの下においてみたのがこちら． https://youtu.be/fEeKh1ToOY4 前に比べて0:09~あたりの**ベースがくっきり** し，ラバーバンドを噛ましているおかげで**振動もかなり軽減** されました． あの細いラバーバンドの上に載せて不安定になるのではと思ったのですが，摩擦が強いおかげでしっかりとEchoを支えてくれているのでちょっとの揺れ程度では落ちる心配がなさそうです．  
 
@@ -49,26 +49,26 @@ Ruikey
 
 Amazon Echoの音質を良くするためには **・高音をクッキリさせたいならEchoのカバーを外す** **・低音を引き締まらせるにはラバーバンドの上にEchoを置く** **・一番良くするにはどっちもやる！** 手軽に音質を改善することができるので騙されたと思って一度お試しあれ．     今回サウンドチェックに使用したのは安野希世乃さんのロケットビートに収録されている「逢いたくて」を使用させていただきました． 素敵なので気になった方は是非フルを聴いてみてくださいね．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51COzoOiLcL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07B18TBR2/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51COzoOiLcL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07B18TBR2)
 
-[ロケットビート](https://www.amazon.co.jp/exec/obidos/ASIN/B07B18TBR2/deltafantom-22/)
+[ロケットビート](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07B18TBR2)
 
 posted with [カエレバ](https://kaereba.com)
 
 安野希世乃 フライングドッグ 2018-04-25
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E5%AE%89%E9%87%8E%E5%B8%8C%E4%B8%96%E4%B9%83&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51UFdyA7e3L._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B071ZF5KCM/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51UFdyA7e3L._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB071ZF5KCM)
 
-[Amazon Echo、チャコール (ファブリック)](https://www.amazon.co.jp/exec/obidos/ASIN/B071ZF5KCM/deltafantom-22/)
+[Amazon Echo、チャコール (ファブリック)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB071ZF5KCM)
 
 posted with [カエレバ](https://kaereba.com)
 
 Amazon 2018-04-03
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=echo&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Decho)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fecho%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fecho%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
