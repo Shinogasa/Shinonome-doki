@@ -119,3 +119,10 @@ article.sn > .article-body blockquote p {
   line-height: 1.7;
 }
 
+
+/* youtube */
+
+/* 組み込みの youtube ショートコードはクラスの無い div で包むため、中の iframe から辿る */
+div:has(> iframe[src^="https://www.youtube.com/embed/"]) {
+  margin-bottom: 1.5em;
+}

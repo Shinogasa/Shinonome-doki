@@ -77,9 +77,12 @@ Vlogをメインに活動する彼女のエッセイ集はどんなものだろ�
 
 {{< youtube id="UQeBnWAGfSk" loading="lazy" title="【ぼっち散歩Vlog】トルココーヒーを求めて東京・下北沢を散歩【ぼっち・ざ・ろっく聖地巡礼】" >}}
 
+
 {{< youtube id="Du0_EEjfwEU" loading="lazy" title="【Vlog】最近涼しくなってきたので野外で酸っぱいビールを飲むVlog【敷嶋てとら】" >}}
 
+
 {{< youtube id="IhcXIbUQ6uQ" loading="lazy" title="【なぜ】餅が挟まっているウェンディーズの謎のバーガー「月見もっち™ベーコネーター」を食べる【Wendy's】" >}}
+
 
 自分もこのエッセイ集を読んでまた東京の知らない路地を当てもなく歩き回り、ふと見かけた店に入ってみる、そんなことがしてみたくなるような1冊だった。  
 
