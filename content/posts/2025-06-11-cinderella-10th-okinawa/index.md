@@ -322,6 +322,6 @@ Day2はDay1より落ち着いている感じがして、**かっちりしなが�
     title="「好き」を言語化する技術"
     summary=""
     image-url="https://m.media-amazon.com/images/W/MEDIAX_1215821-T1/images/I/71L4qb5DAwL._SL1500_.jpg"
-    amazon-url="https://amzn.to/3SKAobi"
-    rakuten-url="[楽天アフィリエイトリンク](https://item.rakuten.co.jp/book/17941790/)"
+    amazon-url="https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4799330837"
+    rakuten-url="https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F17941790%2F"
 >}}

@@ -18,17 +18,17 @@ categories:
 
 自分はこの曲のために群馬まで来たと行っても過言ではないですね． まさかの前半部分にぶつけてきたので，準備ができていていない状態でガツーンと殴られてしまいました．   拓海と里奈の**ノーティギャルズ** がまさにその場にいたステージ． **「道がないなら 自分で作ればいい」** この歌詞が本当に刺さりました． 声がついているのになかなか曲がもらえなかったりしてたところに秋田書店さんのWWG． 本当に秋田書店さんには足を向けて寝られません．   いつか拓海と里奈がソロを歌う日まで担当を続けます． 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/611sSxxVfZL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/4253252249/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/611sSxxVfZL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4253252249)
 
-[アイドルマスターシンデレラガールズWILD WIND GIRL(4)オリジナルCD付き特装版 (少年チャンピオン・コミックス・エクストラ)](https://www.amazon.co.jp/exec/obidos/ASIN/4253252249/deltafantom-22/)
+[アイドルマスターシンデレラガールズWILD WIND GIRL(4)オリジナルCD付き特装版 (少年チャンピオン・コミックス・エクストラ)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4253252249)
 
 posted with [カエレバ](https://kaereba.com)
 
 バンダイナムコエンターテインメント,迫 ミサキ 秋田書店 2017-11-08
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=WWG&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWWG)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWWG%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWWG%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
 [Yahooショッピング](//af.moshimo.com/af/c/click?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3DWWG)![](//i.moshimo.com/af/i/impression?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502)
 
@@ -72,9 +72,9 @@ NHK歌謡コンサートやんけ． **こぶしのきかせ方が流石** っ�
 
 微妙にアクセスが悪かったので当初は行く気がなかったのですが行ってよかったです． 何より**現地でVirgin Loveを聴けたのがよかった…** 開演までリリースされたばかりのARで遊んでたり，フォロワーさんたちとお会いしたりと充実してました https://twitter.com/Shinogasa/status/1038671795098857472   レンタカーで行ったので3日目にロックハート城に行ってヨーロッパ味を感じたり，とんかつ食べたりと群馬自体も楽しむことができました． 市をあげて盛り上げてくれるって素敵ですね．とても良い思い出になりました．   次は6thドーム公演． いつの間にかあと2ヶ月と目前に迫っていたのでいろいろと準備しつつ気分高めていきましょう． メットライフドーム，ナゴヤドームでクソダサメタルCDジャケットごっこする予定なのでメタラーPさんは是非． 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/41jK4gS-shL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B00TQEPVSM/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/41jK4gS-shL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00TQEPVSM)
 
-[ルミカライト 大閃光アーク 25本入り 「極(きわみ)」オレンジ](https://www.amazon.co.jp/exec/obidos/ASIN/B00TQEPVSM/deltafantom-22/)
+[ルミカライト 大閃光アーク 25本入り 「極(きわみ)」オレンジ](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00TQEPVSM)
 
 posted with [カエレバ](https://kaereba.com)
 

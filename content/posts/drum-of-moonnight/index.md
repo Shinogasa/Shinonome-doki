@@ -27,17 +27,17 @@ categories:
 
 SideMよりDRAMATIC STARSが歌うこの曲． ドラムがかっこよすぎで叩いてたら絶対楽しい曲No1． 
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/61ufLBbXzSL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B01EZ27D8A/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/61ufLBbXzSL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01EZ27D8A)
 
-[アイドルマスター SideM THE IDOLM@STER SideM 2nd ANNIVERSARY DISC 01](https://www.amazon.co.jp/exec/obidos/ASIN/B01EZ27D8A/deltafantom-22/)
+[アイドルマスター SideM THE IDOLM@STER SideM 2nd ANNIVERSARY DISC 01](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01EZ27D8A)
 
 posted with [カエレバ](http://kaereba.com)
 
 DRAMATIC STARS & High×Joker ランティス 2016-07-13
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=SideM%20THE%20IDOLM%40STER%20SideM%202nd%20ANNIVERSARY%20DISC&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSideM%2520THE%2520IDOLM%2540STER%2520SideM%25202nd%2520ANNIVERSARY%2520DISC)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSideM%2520THE%2520IDOLM%2540STER%2520SideM%25202nd%2520ANNIVERSARY%2520DISC%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSideM%2520THE%2520IDOLM%2540STER%2520SideM%25202nd%2520ANNIVERSARY%2520DISC%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
 **ド頭** 楽器隊のユニゾンから始まるとかかっこよすぎでしょ． ドラムの音も非常に太くてほげええええええってなりますね． こんだけフレーズがピッタリだと演奏している方もテンションアゲアゲMAXでしょう．   **イントロ**(0:04~)でギターがエロいリードをぶちかましている後ろでドラムはダンスパターン． 同じようなダンスパターンのリズムにショコラ・ティアラがあるのですが ショコラ・ティアラが**ﾂｯﾁｰﾂｯﾁｰ** というリズムに対して ムンナイは**ﾁｷﾁｰﾁｷﾁｰ** と粒が細かくなっているんですね． キレッキレで踊っているような雰囲気が出てますよーーーー．   **Aメロ**(0:18~)はギターのカッティングの裏ではダンスパターン． でもカッティングの裏で叩くこれがエロくて気持ちいいんだ． ちなみに2,4拍目のオープンハイハットだけ叩くことで リズムがぐっとシャープな感じになるんですよ．   **Bメロ** はタムを絡めたリズムパターン． これ最初聴いた時TOTOのMushangaかよって思いました． こんなリズムパターンで流れを作っていくとか素敵  **サビ**(1:12~)ではどりゃーーーーーっていう怒涛の畳み掛け． リズムパターンはイントロと同じですがパワーが入っている感じがしますね． ドラスタの歌に負けないように支えていきますよーーーー！ SHY SHY SHY!の部分でユニゾンしていくのも素敵．   **2番Aメロ**(1:16)はシンプルにハイハットで裏拍を刻むだけ． このあとの盛り上がりに向けて抑え気味に． そして**2番サビ前**(2:20~)のフロアタム+スネアでクレッシェンドからの  
 
@@ -49,14 +49,14 @@ DRAMATIC STARS & High×Joker ランティス 2016-07-13
 
 ムンナイのドラムについて思うがままに語ってみましたが いかがでしたでしょうか？ 新しい発見あったのなら幸いです．   実はショコラ・ティアラとFlip Flopのドラムについても書いていたのですが 思ったままに書いていったら予想よりだいぶ長くなってしまいましたので いつか別記事で公開したいですね．   その他にも純情Midnight伝説やSparkling Girlなど まだまだ色々と語りたい楽曲がありますので 時間と気力があったらまた思うがままに書いてみたいと思います．   さて，クリスマスイブは**おっちゃんさん**([@occhan_L](https://twitter.com/occhan_l))の 「**世界の中心でゼノグラシアもKRも最高だぞと叫ぶオタクの話** 」です． ゼノグラシアにKRと非常に興味をそそられるタイトルですね． 一体どんなことを書いてくれるのでしょうか． 期待してバトンをお渡しします． それでは．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51M16adCEIL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B012VHYG6S/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51M16adCEIL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB012VHYG6S)
 
-[Pearl ROADSHOW RS525SCW/C ＃91 RED WINE ドラムセット](https://www.amazon.co.jp/exec/obidos/ASIN/B012VHYG6S/deltafantom-22/)
+[Pearl ROADSHOW RS525SCW/C ＃91 RED WINE ドラムセット](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB012VHYG6S)
 
 posted with [カエレバ](http://kaereba.com)
 
 Pearl
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E3%83%89%E3%83%A9%E3%83%A0%E3%82%BB%E3%83%83%E3%83%88&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25A9%25E3%2583%25A0%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A9%25E3%2583%25A0%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2589%25E3%2583%25A9%25E3%2583%25A0%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)

@@ -23,9 +23,9 @@ categories:
 
 ![](CameraZOOM-20160212112934155.jpg) りーなとみくにゃんのイメージカラーのピンクと青のドリンクです． 上の青がブルーシロップ+グレープフルーツジュースで下のピンクがローズヒップティーですね． 実際飲んでみるとグレープフルーツがとても主張してきます．ローズヒップティーどこいった． 2種類の比率のせいもあって混ぜてしまうと青色だけになってしまい完全にみくにゃんが食われてしまいました． かろうじて肉球グミがなんとかみくにゃん成分を保っているような感じです． いつも思うんですがこのホイップクリームってどうするのが正しいのでしょうか？ 混ぜても見た目悪くなるだけで溶けないし味にイマイチ合わないし． スプーンですくってそのまま食べるか他のデザートに使うのが正解？ ついてきたブロマイドはにわかロック結成時の場面ですかね． 
 
-[![THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 06　ØωØver!!](http://ecx.images-amazon.com/images/I/61qF0OEOWRL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00VANNSXW/deltafantom-22/)
+[![THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 06　ØωØver!!](http://ecx.images-amazon.com/images/I/61qF0OEOWRL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00VANNSXW)
 
-[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 06 ØωØver!!](http://www.amazon.co.jp/exec/obidos/ASIN/B00VANNSXW/deltafantom-22/)
+[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 06 ØωØver!!](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00VANNSXW)
 
   * アーティスト: ＊(Asterisk)?[前川みく×多田李衣菜]
   * 出版社/メーカー: 日本コロムビア
@@ -39,9 +39,9 @@ categories:
 
 ![](CameraZOOM-20160212113018516.jpg) フードのこちらはみくにゃんの大好物のハンバーグでみくにゃんと安部菜々を，ヘッドホン海苔でりーな，ギター型もなかでワンプレート内に＊withなつななが表現されてます． でもなつきちがギター型のもなかだけってちょっと可哀想じゃないですか？ お味は普通のハンバーグとサラダでした． サラダにはみくにゃんの猫耳を作っていると◯がりコーンのあまりが入っていていい感じのアクセントになっていました．今度サラダ作るときに真似してみようかな． 
 
-[![THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 03](http://ecx.images-amazon.com/images/I/51-%2BIoeDTaL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B014935SXW/deltafantom-22/)
+[![THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 03](http://ecx.images-amazon.com/images/I/51-%2BIoeDTaL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB014935SXW)
 
-[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 03](http://www.amazon.co.jp/exec/obidos/ASIN/B014935SXW/deltafantom-22/)
+[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 03](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB014935SXW)
 
   * アーティスト: V.A.
   * 出版社/メーカー: 日本コロムビア
@@ -51,9 +51,9 @@ categories:
 
 
 
-[![ハウス食品 とんがりコーンあっさり塩 21g×20袋](http://ecx.images-amazon.com/images/I/51hijPqH%2BKL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B003J35VPO/deltafantom-22/)
+[![ハウス食品 とんがりコーンあっさり塩 21g×20袋](http://ecx.images-amazon.com/images/I/51hijPqH%2BKL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB003J35VPO)
 
-[ハウス食品 とんがりコーンあっさり塩 21g×20袋](http://www.amazon.co.jp/exec/obidos/ASIN/B003J35VPO/deltafantom-22/)
+[ハウス食品 とんがりコーンあっさり塩 21g×20袋](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB003J35VPO)
 
   * 出版社/メーカー: ハウス食品
   * メディア: 食品&飲料
@@ -66,9 +66,9 @@ categories:
 
 ![](CameraZOOM-20160212114749796.jpg) アニメのキーワードにもなったnew generationsの3人の好きな「チョコレート」「フライドチキン」「生ハムメロン」を詰め込んだどシンプルな一品． 衝撃だったのはコレがフードではなくデザートに分類されていたこと． 確かにチョコとバナナといちごとマシュマロありますけど生ハムメロンとフライドチキンはデザートに入らないですよね・・・ そしてご飯の後にコレは少し重かったです．フライドチキンもありますし． チョコが液状なのでバナナやいちごに付けてチョコフォンデュ形式で食べるのが正しいのでしょうね．流石に生ハムメロンとフライドチキンはそのまま食べましたが． なんでもかんでも一緒にすればいいってもんじゃないぞう！ 実は生ハムメロンとして食べたのは今回が初めてでした． 実際食べてみて「あ，意外といけるのね」というのが率直な感想でした． 生ハム，メロンそれぞれは食べることがありますが一緒に食べることってなかなか無い気がします． 伊達にwikiにちゃんと記載されてませんね．([生ハムメロン - Wikipedia](https://ja.wikipedia.org/wiki/%E7%94%9F%E3%83%8F%E3%83%A0%E3%83%A1%E3%83%AD%E3%83%B3)) 
 
-[![THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 06](http://ecx.images-amazon.com/images/I/61CXnAqAhUL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B015NQ62HA/deltafantom-22/)
+[![THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 06](http://ecx.images-amazon.com/images/I/61CXnAqAhUL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB015NQ62HA)
 
-[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 06](http://www.amazon.co.jp/exec/obidos/ASIN/B015NQ62HA/deltafantom-22/)
+[THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 06](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB015NQ62HA)
 
   * アーティスト: V.A.
   * 出版社/メーカー: 日本コロムビア
@@ -82,9 +82,9 @@ categories:
 
 ![](CameraZOOM-20160212180925996.jpg) 食後に限定缶バッチガチャ回して上の写真のもの入手しました． 幸子とみりあちゃんがダブってしましました・・・ ＊withなつなな揃える意気込みで行ったのですが誰も当たらず． また行く暇あれば当てたいですね． 交換も募集中ですのでもしありましたらぜひ！ 店内には撮影禁止だったものの実際に着用された衣装(マイファーストスター，クリスタルナイトパーティ)とシンデレラププロジェクト全員のタペストリー，2期の場面カットが飾っており退店時間まで飽きることなく楽しむことが出来ました． 特にアニメの場面カットなんて見るだけで「こんな場面だったなぁ」「よかったなぁ」とアニメの思い出に浸ることができました． 会計の時にはフレデリカのバースデイ期間ということでブロマイドをもらいました． フレデリカは声がついてデレステでイメージがとても良くなりました． 声優さんもめっちゃフレデリカっぽいですし憎めないテキトーさが可愛らしいです． 流石デレマス界の高田純次． フードの感想なのですが正直今回頼んだモノはちょっとイマイチでした． 自分で作ってもコレぐらい，いやこれ美味しいもの作れるんじゃね？と思えるものでした． 前回のコラボカフェのメニュー(Asteriskのカレーや蘭子のハンバーグなど)が結構しっかりしていただけにちょっと残念でした． ただ，蘭子と小梅のスパゲッティや卯月と美穂のピザなんかは他の方が注文しているのを見た感じちゃんとしていたのでメニュー次第という所でしょうか． このようなイベントは場所やおまけのブロマイドなどにお金を払っているという所もあるのでしかたがないのですがせっかくなら料理ももっと力を入れて欲しいですね． まあプロデューサーですからどんなのでも行っちゃうんですけどね！！ 他のメニューも食べてみたいですしブロマイドや缶バッチも集めたいので時間と機会があったらまた行ってレポしたいと思います． 今回は先着順かつ開催期間が長めなのでそこのプロデューサーさんも機会があったら行ってみたらいかがでしょうか． 
 
-[![コウブツヤ アイドルマスターシンデレラガールズ *\(Asterisk\) ペンケース](http://ecx.images-amazon.com/images/I/31Vbct%2BJ4zL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B01BHM9BUE/deltafantom-22/)
+[![コウブツヤ アイドルマスターシンデレラガールズ *\(Asterisk\) ペンケース](http://ecx.images-amazon.com/images/I/31Vbct%2BJ4zL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01BHM9BUE)
 
-[コウブツヤ アイドルマスターシンデレラガールズ *(Asterisk) ペンケース](http://www.amazon.co.jp/exec/obidos/ASIN/B01BHM9BUE/deltafantom-22/)
+[コウブツヤ アイドルマスターシンデレラガールズ *(Asterisk) ペンケース](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01BHM9BUE)
 
   * 出版社/メーカー: まさめや
   * 発売日: 2016/04/30
@@ -93,9 +93,9 @@ categories:
 
 
 
-[![コウブツヤ アイドルマスターシンデレラガールズ new generations ペンケース](http://ecx.images-amazon.com/images/I/31wI%2BwH8DvL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B01BHM98YI/deltafantom-22/)
+[![コウブツヤ アイドルマスターシンデレラガールズ new generations ペンケース](http://ecx.images-amazon.com/images/I/31wI%2BwH8DvL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01BHM98YI)
 
-[コウブツヤ アイドルマスターシンデレラガールズ new generations ペンケース](http://www.amazon.co.jp/exec/obidos/ASIN/B01BHM98YI/deltafantom-22/)
+[コウブツヤ アイドルマスターシンデレラガールズ new generations ペンケース](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01BHM98YI)
 
   * 出版社/メーカー: まさめや
   * 発売日: 2016/04/30
@@ -108,9 +108,9 @@ categories:
 
 2回目行ってきました．  [shinogasa.hatenablog.com](http://shinogasa.hatenablog.com/entry/2016/03/22/imas-cinderella-cafe-2)
 
-[![アイドルマスターシンデレラガールズ 8 \(完全生産限定版\) \[Blu-ray\]](http://ecx.images-amazon.com/images/I/511iGvOVgDL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B01597ZRWY/deltafantom-22/)
+[![アイドルマスターシンデレラガールズ 8 \(完全生産限定版\) \[Blu-ray\]](http://ecx.images-amazon.com/images/I/511iGvOVgDL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01597ZRWY)
 
-[アイドルマスターシンデレラガールズ 8 (完全生産限定版) [Blu-ray]](http://www.amazon.co.jp/exec/obidos/ASIN/B01597ZRWY/deltafantom-22/)
+[アイドルマスターシンデレラガールズ 8 (完全生産限定版) [Blu-ray]](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01597ZRWY)
 
   * 出版社/メーカー: アニプレックス
   * 発売日: 2016/01/28

@@ -9,17 +9,17 @@ categories:
 
 こんにちは，しののめ([@Shinogasa](https://twitter.com/Shinogasa))です！   本日11月7日に安野希世乃さん2ndミニアルバム「笑顔。」が発売されました． 1stミニアルバム「涙。」とは逆のイメージの言葉**「笑顔」がテーマ** の今作． 前作に引き続き豪華制作陣が参加されていてどれも素敵だったので 独断と偏見によるディスクレビューです．  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51gYNazo3FL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQMXLFY/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51gYNazo3FL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQMXLFY)
 
-[【Amazon.co.jp限定】笑顔。(CD+Bru-ray)(BD付初回限定盤)(複製サイン&コメント入りポストカード)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQMXLFY/deltafantom-22/)
+[【Amazon.co.jp限定】笑顔。(CD+Bru-ray)(BD付初回限定盤)(複製サイン&コメント入りポストカード)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQMXLFY)
 
 posted with [カエレバ](https://kaereba.com)
 
 安野希世乃 ビクターエンタテインメント 2018-11-07
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E5%AE%89%E9%87%8E%E5%B8%8C%E4%B8%96%E4%B9%83&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
 [Yahooショッピング](//af.moshimo.com/af/c/click?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)![](//i.moshimo.com/af/i/impression?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502)
 
@@ -57,33 +57,33 @@ posted with [カエレバ](https://kaereba.com)
 
 前作「涙。」に引き続き豪華作詞作曲家陣が参加されていて とても素敵な曲ばかり詰まっているこのアルバム．   今作のテーマは「笑顔」ということで 安野さんの素敵な歌声で**嬉しい笑顔だけじゃなく，** **悲しい笑顔まで** 様々な表情を見せてくれます．   豪華作詞作曲家陣が紡ぐ曲に安野さんの素敵な歌声． 何度聴いても楽しめる1枚となっていますのでぜひ手にとって聴いてみてください．   そして12月には安野さんの2ndライブが． 東京は完売ですが，大阪と追加公演の幕張がまだ残っています． このアルバムを聴いていいと思った方はぜひ生の歌声を聴きに来てください！ https://avex.jp/kiyono-yasuno/news/detail.php?id=1066693   それでは，チャオ☆  
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51r44v6lOvL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQN5L15/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51r44v6lOvL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQN5L15)
 
-[【Amazon.co.jp限定】笑顔。(CD)(通常盤)(複製サイン&コメント入りポストカード)](https://www.amazon.co.jp/exec/obidos/ASIN/B07HQN5L15/deltafantom-22/)
+[【Amazon.co.jp限定】笑顔。(CD)(通常盤)(複製サイン&コメント入りポストカード)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07HQN5L15)
 
 posted with [カエレバ](https://kaereba.com)
 
 安野希世乃 ビクターエンタテインメント 2018-11-07
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E5%AE%89%E9%87%8E%E5%B8%8C%E4%B8%96%E4%B9%83&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
 [Yahooショッピング](//af.moshimo.com/af/c/click?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)![](//i.moshimo.com/af/i/impression?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502)
 
 [![](//i.moshimo.com/af/i/impression?a_id=1052554&p_id=932&pc_id=1188&pl_id=12456)7net](//af.moshimo.com/af/c/click?a_id=1052554&p_id=932&pc_id=1188&pl_id=12456&s_v=b5Rz2P0601xu&url=http%3A%2F%2F7net.omni7.jp%2Fsearch%2F%3Fkeyword%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%26searchKeywordFlg%3D1)
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51HGfpWJ7NL._SL160_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B0719FYLP7/deltafantom-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51HGfpWJ7NL._SL160_.jpg)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0719FYLP7)
 
-[涙。 (初回限定盤)](https://www.amazon.co.jp/exec/obidos/ASIN/B0719FYLP7/deltafantom-22/)
+[涙。 (初回限定盤)](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0719FYLP7)
 
 posted with [カエレバ](https://kaereba.com)
 
 安野希世乃 フライングドッグ 2017-07-26
 
-[Amazon](https://www.amazon.co.jp/gp/search?keywords=%E5%AE%89%E9%87%8E%E5%B8%8C%E4%B8%96%E4%B9%83&__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&tag=deltafantom-22)
+[Amazon](https://af.moshimo.com/af/c/click?a_id=1052536&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)
 
-[楽天市場](https://hb.afl.rakuten.co.jp/hgc/140c65f5.f2d5fda6.140c65f6.51a0545a/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
+[楽天市場](https://af.moshimo.com/af/c/click?a_id=1052522&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0%26scid%3Daf_ich_link_urltxt%26m%3Dhttp%3A%2F%2Fm.rakuten.co.jp%2F)
 
 [Yahooショッピング](//af.moshimo.com/af/c/click?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fsearch.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2589%25E9%2587%258E%25E5%25B8%258C%25E4%25B8%2596%25E4%25B9%2583)![](//i.moshimo.com/af/i/impression?a_id=1052554&p_id=1225&pc_id=1925&pl_id=18502)
 
