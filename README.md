@@ -1,11 +1,9 @@
 # Shinonome-doki
 
-this is my blog by Hugo
-deploy by GitHub Actions
+Hugo で作っているブログ「シノノメドキ」（https://shinonono.net ）のソース。
 
-## Theme
-
-https://github.com/dim0627/hugo_theme_robust
+- テーマ: [hugo_theme_robust](https://github.com/dim0627/hugo_theme_robust)（git submodule。`themes/robust`）
+- 配信: S3 + CloudFront。インフラとデプロイの手順は別リポジトリ `Shinonome-doki-infra` で管理している
 
 ## Setup
 
@@ -26,9 +24,6 @@ sass --version
 本番ビルドの Hugo / Dart Sass のバージョンは `Shinonome-doki-infra` の `deploy.yml` で固定している。
 ローカルもそれに揃える。
 
-ローカルでは `resources/_gen` のキャッシュが使われるため、`sass` が無くてもビルドが通ることがある。
-CI にはキャッシュが無いので失敗する。CI と同じ条件でビルドできるかを確かめるときは、`resources/` を消してからビルドする。
-
 ## Usage
 
 ### 記事の作成
@@ -37,7 +32,7 @@ CI にはキャッシュが無いので失敗する。CI と同じ条件でビ�
 hugo new content/posts/<記事のディレクトリ名>/index.md
 ```
 
-`archetypes/default.md` の雛形から front matter 付きで生成される。
+`archetypes/default.md` の雛形から front matter 付きで生成される（`draft: true`）。
 
 ### 記事テンプレ
 
@@ -72,67 +67,119 @@ content/posts/<記事のディレクトリ名>/
 └── photo.jpg     ←  ![](photo.jpg) で参照
 ```
 
-こうすると Hugo が自動でリサイズし、`loading="lazy"` と `width`/`height` を付与する
-（`layouts/_default/_markup/render-image.html`）。`static/` に置いた画像はこの対象外。
+こうすると、レンダーフック（`layouts/_default/_markup/render-image.html`）が次を行う。
+`static/` に置いた画像はこの対象外で、元のサイズのまま配信される。
+
+- 幅1280pxを超える画像を縮小する
+- `width` / `height` と `loading="lazy"` を付ける（記事の最初の画像だけは遅延させない）
+- スマホで縦に撮った写真（EXIF の向き指示付き）を、正しい向きに回転させる
+
+iPhone の HEIC はそのまま使えないので、JPEG に変換してから置く。
+
+```bash
+sips -s format jpeg image.heic --out image.jpg
+```
 
 ### ショートコード
 
 #### ブログカード
 
+ビルド時にリンク先のタイトルや画像を取得して、カードを表示する。
+
 ```md
 {{< blogcard "https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5" >}}
 ```
 
-#### 画像
+#### 画像（キャプション・リンク付き）
 
 ```md
 {{< figure
-  src="/images/examples/zion-national-park.jpg"
-  alt="A photograph of Zion National Park"
-  link="https://www.nps.gov/zion/index.htm"
-  caption="Zion National Park"
-  class="ma0 w-75"
-  width="800"
-  height="600"
+  src="photo.jpg"
+  caption="すばらしかったフラスタ"
+  link="https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5"
+  width="400"
 >}}
 ```
 
-#### アフィリエイト
+`figure` はレンダーフックを通らないので、縮小されない。キャプションが要らなければ `![](photo.jpg)` を使う。
+
+#### ポスト（X）の埋め込み
+
+```md
+{{< x id="ポストのID" user="ユーザーID" theme="light" >}}
+```
+
+#### YouTube
+
+```md
+{{< youtube id="動画ID" loading="lazy" title="動画のタイトル" >}}
+```
+
+### アフィリエイト
+
+アフィリエイトリンクは、もしもアフィリエイトに統一している。
+
+- **新しい記事**: もしもの管理画面で「かんたんリンク」の HTML を作り、本文にそのまま貼る
+  （`config/_default/config.toml` の `markup.goldmark.renderer.unsafe = true` で HTML を通している）
+- **古い記事**: `affiliate` ショートコードが残っている。リンク先は、もしものクリックURLに置き換え済み
 
 ```md
 {{< affiliate
     title="August Burns Red / Constellations"
     summary=""
-    image-url="Amazonから取ってきた画像URL"
-    amazon-url="Amazonアフィリエイトリンク"
-    rakuten-url="楽天アフィリエイトリンク"
+    image-url="商品画像のURL"
+    amazon-url="もしも経由の Amazon リンク"
+    rakuten-url="もしも経由の楽天リンク"
 >}}
-```
-
-#### ツイート埋込み
-
-```md
-{{< x id="ツイートid" user="ユーザーid" theme="light" >}}
 ```
 
 ## Build
 
-ローカルで確認
+ローカルで確認（下書きも表示する）
 
 ```bash
 hugo server -D
 ```
 
-記事ビルド
+本番と同じ条件でビルドできるかの確認
 
 ```bash
-hugo
+rm -rf resources/ public/ && hugo --minify --logLevel warn
 ```
 
-## その他
+ローカルでは `resources/_gen` のキャッシュが使われるため、`sass` が無くてもビルドが通ることがある。
+CI にはキャッシュが無いので失敗する。`resources/` を消してからビルドすれば、CI と同じ条件になる。
+警告が出たら、本番でも同じ警告が出る。
 
-### 画像変換
+## Deploy
+
+`main` へ push（PR のマージ）すると、`.github/workflows/trigger_deploy.yml` が
+`Shinonome-doki-infra` の deploy ワークフローを起動する。infra 側で Hugo のビルド、S3 への同期、
+CloudFront のキャッシュ削除を行う。進み具合は次で確かめられる。
 
 ```bash
-sips -s format jpeg image.heic --out image.jpg
+gh run list -R Shinogasa/Shinonome-doki-infra --limit 3
 ```
+
+`main` 以外のブランチは、Actions の画面から `Trigger Deploy` を手動で実行し、ブランチ名を指定してデプロイできる。
+
+## 表示速度のための決まり
+
+PageSpeed Insights（モバイル）で 62 点だったものを、2026-11 に 100 点まで上げた。
+次のものを足すと、また遅くなるので注意する。
+
+- **外部の CSS・フォント・スクリプトを全ページに読み込まない。** Google Fonts、Font Awesome、AdSense、
+  Google アナリティクスは外した。本文はシステムフォント（`config/_default/config.toml` の `fontfamily`）で表示している
+- **アイコンは `layouts/partials/icon.html` のインライン SVG を使う。** 新しいアイコンが要るときは、
+  Font Awesome Free の SVG をこのファイルに足す
+- **サムネイルは `layouts/partials/thumb.html` が縮小・WebP 化した `<img>` で出す。** 背景画像の CSS には戻さない
+
+## テーマの上書き
+
+テーマのファイルは直接編集せず、同じパスで `layouts/` に置いて上書きしている。テーマを更新するときは、
+次のファイルとテーマ側の差分を確かめる。
+
+- `layouts/_default/`: `baseof.html`、`list.html`、`single.html`、`summary.html`、`li_sm.html`
+- `layouts/partials/`: `author.html`、`meta.html`、`share.html`、`single_meta.html`、`single_json_ld.html`
+
+CSS の追加・上書きは `layouts/partials/custom.css` に書く（`baseof.html` がインラインで埋め込む）。
