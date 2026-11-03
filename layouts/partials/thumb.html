@@ -1,0 +1,27 @@
+{{- /*
+  記事のサムネイルを、縮小・WebP化した <img> で出す。
+
+  以前はテーマどおり、全記事分の背景画像をCSSに書き、元画像（数MB）をそのまま配信していた。
+  背景画像はHTMLから見つけにくく、遅延読み込みも効かないため、<img> に替えた。
+  サムネイルが無い記事は assets/images/default.jpg を使う。
+
+  使い方: {{ partial "thumb.html" (dict "page" . "size" "list" "priority" true) }}
+    size:     list（一覧カード）/ sm（サイドバー・前後記事）/ single（記事ページ上部）
+    priority: true なら画面の最初に見える画像として先に読み込む（LCP候補）。それ以外は遅延読み込み
+*/ -}}
+{{- $sizes := dict
+  "list"   "800x320"
+  "sm"     "160x160"
+  "single" "1280x640"
+-}}
+{{- $page := .page -}}
+{{- $img := partial "thumbnail-resource.html" $page -}}
+{{- if not $img -}}
+  {{- $img = resources.Get "images/default.jpg" -}}
+{{- end -}}
+{{- /* スマホで撮った写真は EXIF の向き情報を持つ。縮小すると情報が落ちて横倒しになるため、先に回転させる */ -}}
+{{- $img = $img.Filter images.AutoOrient -}}
+{{- /* 切り抜きは中央。既定の Smart だと、以前の background-position: center と違う部分が映る */ -}}
+{{- $img = $img.Fill (printf "%s Center webp q75" (index $sizes .size)) -}}
+<img class="thumb" src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt=""
+  {{- if .priority }} fetchpriority="high"{{ else }} loading="lazy"{{ end }} decoding="async">

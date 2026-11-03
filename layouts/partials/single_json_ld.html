@@ -9,7 +9,7 @@
     "headline": {{ printf "%s - %s" .Title .Site.Title | jsonify | safeJS }},
     "image": {
       "@type": "ImageObject",
-      "url": "{{ absURL (.Params.thumbnail | default "images/default.png") }}"
+      "url": "{{ with partial "thumbnail-resource.html" . }}{{ .Permalink }}{{ else }}{{ absURL "images/default.png" }}{{ end }}"
     },
     {{/* Z07:00 でサイトの timeZone 設定からオフセットを生成する（+09:00 のハードコードは設定と二重管理になる） */}}
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",

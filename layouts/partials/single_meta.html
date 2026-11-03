@@ -2,7 +2,9 @@
 
 {{- $desc := partial "normalized-description.html" . -}}
 {{- $title := printf "%s - %s" .Title .Site.Title -}}
-{{- $image := absURL (.Params.thumbnail | default "images/default.png") -}}
+{{- /* サムネイルは page bundle のリソース。front matter の値がファイル名だけのこともあるので absURL には渡さない */ -}}
+{{- $image := absURL "images/default.png" -}}
+{{- with partial "thumbnail-resource.html" . }}{{ $image = .Permalink }}{{ end -}}
 
 <meta name="description" content="{{ $desc }}">
 

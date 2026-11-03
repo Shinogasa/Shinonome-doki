@@ -1,0 +1,17 @@
+{{- /*
+  記事のサムネイル画像を、page bundle のリソースとして返す。見つからなければ nil を返す。
+
+  front matter の thumbnail はファイル名だけ（例: thumbnail.jpg）でも、
+  公開URLのパス（例: /posts/<slug>/newgene.JPG）でもよい。どちらも末尾のファイル名で探す。
+  static/ に置いた画像はリソースにならないので、ここでは見つからない。
+
+  使い方: {{ $img := partial "thumbnail-resource.html" . }}
+*/ -}}
+{{- $img := "" -}}
+{{- with .Params.thumbnail -}}
+  {{- $img = $.Resources.GetMatch (path.Base .) -}}
+  {{- if not $img -}}
+    {{- warnf "%s: thumbnail %q が page bundle に見つからない（static/ の画像は縮小できない）" $.File.Path . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $img -}}

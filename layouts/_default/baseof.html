@@ -14,7 +14,6 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
     {{ end }}
     {{/* コードハイライトは Hugo 内蔵の Chroma がビルド時に行う。highlight.js は不要（配色は markup.highlight.style で変える） */}}
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous" referrerpolicy="no-referrer">
     <style>
 {{/* libsass は Hugo v0.153.0 で deprecated。Dart Sass の実行ファイル（sass）がローカルとCIの両方に必要 */}}
 {{ $sassOpts := dict "transpiler" "dartsass" }}
@@ -27,18 +26,7 @@
   {{ end }}
 {{ end }}
 
-.thumb {
-  background-image: url("{{ "images/default.jpg" | absURL }}");
-  background-size: cover;
-  background-position: center;
-}
-{{ range $p := .Site.RegularPages }}
-  {{ with $p.Params.thumbnail }}
-.thumb-{{ $p.File.UniqueID }} {
-  background-image: url("{{ . | absURL }}");
-}
-  {{ end }}
-{{ end }}
+{{/* サムネイルは layouts/partials/thumb.html が <img> で出す。全記事分の背景画像CSSはここに書かない */}}
 
 {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
 {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}

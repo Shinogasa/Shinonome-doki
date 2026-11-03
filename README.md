@@ -48,7 +48,7 @@ date: 2025-04-28 12:00:00
 slug: the-idolmaster-cinderella-girls-starlight-stage-10th-tokyo-day2
 draft: False
 description: デレステ10thツアー東京公演DAY2の感想。セットリストと印象に残った演出を振り返る。
-thumbnail: /posts/frgments-of-the-idolmster-cinderella-girls/newgene.JPG
+thumbnail: newgene.JPG
 categories:
   - シンデレラガールズ
   - 日記
@@ -59,7 +59,7 @@ categories:
 |---|---|
 | `slug` | **URL を決める**（`/posts/<slug>/`）。公開後に変えるとリンクが切れる |
 | `description` | 検索結果に出る説明文。**全角80〜120文字程度**。未記入だと本文冒頭が自動で使われ、意図した要約にならない |
-| `thumbnail` | OGP 画像。未指定だと `/images/default.png` にフォールバックする |
+| `thumbnail` | 一覧・記事上部のサムネイルと OGP 画像。**記事と同じディレクトリ（page bundle）に置き、ファイル名で指定する**。Hugo が縮小・WebP 化して表示する（`static/` の画像は縮小できず、ビルド時に警告が出る）。未指定だと表示は `assets/images/default.jpg`、OGP は `/images/default.png` になる |
 | `categories` | 既存のカテゴリ名に揃える |
 
 ### 画像の置き場所
