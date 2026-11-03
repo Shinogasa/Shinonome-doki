@@ -138,3 +138,11 @@ div:has(> iframe[src^="https://www.youtube.com/embed/"]) {
   overflow: visible;
   vertical-align: -0.125em;
 }
+
+/* サムネイル（layouts/partials/thumb.html の <img>）
+   高さはテーマの article.li / .lism / .sn .thumb の指定を使い、枠に合わせて切り抜く */
+img.thumb {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}

@@ -36,17 +36,17 @@
     {{ $pctx := . }}
     {{ if .IsHome }}{{ $pctx = .Site }}{{ end }}
     {{ $paginator := .Paginate $pctx.RegularPages }}
-    {{ range $paginator.Pages }}
+    {{ range $i, $_ := $paginator.Pages }}
     <div class="mcol c6">
       <article class="li">
         <a href="{{ .Permalink }}">
-          <div class="thumb thumb-{{ .File.UniqueID }}"></div>
+          {{ partial "thumb.html" (dict "page" . "size" "list" "priority" (eq $i 0)) }}
 
           <div class="inner">
             <h2 class="title">{{ .Title }}</h2>
 
             <ul class="facts">
-              <li>{{ partial "icon.html" "calendar" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time></li>
+              <li>{{ partial "icon.html" "calendar" }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time></li>
               {{ with .Section }}<li>{{ partial "icon.html" "bookmark" }}{{ . | upper }}</li>{{ end }}
               {{ if eq (getenv "HUGO_ENV") "DEV" }}
               <li>{{ .WordCount }} Words</li>

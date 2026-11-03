@@ -26,18 +26,7 @@
   {{ end }}
 {{ end }}
 
-.thumb {
-  background-image: url("{{ "images/default.jpg" | absURL }}");
-  background-size: cover;
-  background-position: center;
-}
-{{ range $p := .Site.RegularPages }}
-  {{ with $p.Params.thumbnail }}
-.thumb-{{ $p.File.UniqueID }} {
-  background-image: url("{{ . | absURL }}");
-}
-  {{ end }}
-{{ end }}
+{{/* サムネイルは layouts/partials/thumb.html が <img> で出す。全記事分の背景画像CSSはここに書かない */}}
 
 {{ with .Site.Params.fontfamily }} body { font-family: {{ . | safeCSS }}; } {{ end }}
 {{ with .Site.Params.logofontfamily }} .h-logo { font-family: {{ . | safeCSS }}; } {{ end }}

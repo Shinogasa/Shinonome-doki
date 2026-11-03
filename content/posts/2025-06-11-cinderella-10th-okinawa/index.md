@@ -3,7 +3,7 @@ title: 浮かれポンチの見たデレステ10thツアー沖縄公演 + 沖縄
 date: 2025-06-11 12:00:00
 slug: the-idolmaster-cinderella-girls-starlight-stage-10th-okinawa
 draft: False
-thumbnail: /posts/2025-06-09-cinderella-10th-okinawa/thumbnail.jpg
+thumbnail: thumbnail.jpg
 categories:
   - シンデレラガールズ
   - 日記
