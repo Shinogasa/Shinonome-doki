@@ -287,7 +287,7 @@ Day2はDay1より落ち着いている感じがして、**かっちりしなが�
 ありがとうございました。  
 
 {{< figure
-  src="/posts/2025-06-09-cinderella-10th-okinawa/flower-stand.jpg"
+  src="flower-stand.jpg"
   caption="すばらしかったフラスタ"
   link="https://www.sakaseru.jp/mina/event/54d62b47f90d4ae0281d7b6809ad78c5"
   width="400"
