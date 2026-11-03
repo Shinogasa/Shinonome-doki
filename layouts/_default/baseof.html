@@ -8,11 +8,6 @@
 
     <link rel="canonical" href="{{ .Permalink }}">
 
-    {{ with .Site.Params.googlefonts }}
-    <link href="{{ . }}" rel="stylesheet">
-    {{ else }}
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
-    {{ end }}
     {{/* コードハイライトは Hugo 内蔵の Chroma がビルド時に行う。highlight.js は不要（配色は markup.highlight.style で変える） */}}
     <style>
 {{/* libsass は Hugo v0.153.0 で deprecated。Dart Sass の実行ファイル（sass）がローカルとCIの両方に必要 */}}

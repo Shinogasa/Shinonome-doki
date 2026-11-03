@@ -33,9 +33,10 @@ ignoreLogs = ['shortcode-x-getremote']
 # サイト説明文は languages.toml の [ja.params].description が実効値（言語別設定に一本化）
 dateformat = "Jan 2, 2006" # Optional
 # Fonts settings.
-googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700&display=swap" # Optional, Include google fonts.
-fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
-logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+# Web フォント（Google Fonts）は読み込まない。レンダリングブロックの原因になるうえ、
+# 日本語本文はもともとシステムフォントで描画されており、Lato は英数字にしか効いていなかった。
+# googlefonts / logofontfamily は使わない（baseof.html 側の読み込みブロックも削除済み）。
+fontfamily = "YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
 
 # コードハイライトは Hugo 内蔵の Chroma がビルド時に行うため highlight.js は使わない。
 # 配色を変えたい場合は [markup.highlight] の style を指定する。
