@@ -50,9 +50,20 @@
 
 {{- with $resource -}}
   {{- $img := . -}}
+  {{- /*
+    スマホで縦に撮った写真は、画素を横向きのまま保存し、EXIF の Orientation で回転を指示している。
+    Hugo は Resize で EXIF を捨てるが回転はしないため、そのままでは横倒しで出る（幅・高さも入れ替わる）。
+    向きの指示（1 以外）がある画像だけ、縮める前に画素を回転させる。
+    指示の無い画像まで通すと、再エンコードで画質とサイズが変わるので通さない。
+  */ -}}
+  {{- $orientation := 1 -}}
+  {{- with .Meta -}}{{- with .Orientation -}}{{- $orientation = . -}}{{- end -}}{{- end -}}
+  {{- if ne $orientation 1 -}}
+    {{- $img = $img.Filter images.AutoOrient -}}
+  {{- end -}}
   {{- /* 本文の表示幅を超える分は転送する意味がないので縮める */ -}}
-  {{- if gt .Width $maxDisplayWidth -}}
-    {{- $img = .Resize (printf "%dx q82" $maxDisplayWidth) -}}
+  {{- if gt $img.Width $maxDisplayWidth -}}
+    {{- $img = $img.Resize (printf "%dx q82" $maxDisplayWidth) -}}
   {{- end -}}
   {{- /* assets 由来のものは元のURLへ出力し直し、公開URLを変えない */ -}}
   {{- with $publishPath -}}
