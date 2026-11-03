@@ -23,8 +23,6 @@ ignoreLogs = ['shortcode-x-getremote']
 [services]
   [services.disqus]
     shortname = ''
-  [services.googleAnalytics]
-    id = 'G-N0QXRZ562X' # Optical
 
 [permalinks]
   posts = "/posts/:slug/"
